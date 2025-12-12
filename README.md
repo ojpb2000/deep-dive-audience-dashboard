@@ -1,132 +1,60 @@
-# Hilton Deep Divers Analytics Dashboard
+# 🏨 Hilton Deep Divers Analytics Dashboard
 
-An interactive analytics dashboard for analyzing the Hilton Deep Divers audience segment compared to nationally representative data.
+Interactive dashboard for analyzing the "Hilton Deep Divers" audience compared to a nationally representative control group.
 
-## Overview
+## 📊 Features
 
-This dashboard provides comprehensive insights into the **Hilton Deep Divers** audience - high-income, luxury-oriented consumers (ages 35-44, with income 200%+ above the national median) who identify with a luxurious lifestyle and prefer premium products and experiences.
+- **Interactive Visualizations**: Multiple chart types (bar charts, scatter plots, heatmaps, data tables)
+- **AI Strategic Analysis**: 10 strategic insights for Q2 communication planning
+- **Deep Cultural Insights**: In-depth cultural analysis with varied visualizations
+- **Dynamic Filtering**: Filter by category, section, index threshold, and more
+- **Real-time Insights**: Automatic insights generation for each chart
 
-## Features
+## 🚀 Deployment
 
-- **Interactive Visualizations**: Multiple chart types including comparison bars, index analysis, scatter plots, heatmaps, and more
-- **Category Organization**: Data organized by Travel & Hospitality, Lifestyle & Interests, Sports & Entertainment, and Brands & Products
-- **Advanced Filtering**: Filter by category, section, metric, and index thresholds
-- **AI Strategic Analysis**: Comprehensive 10-insight analysis for Q2 2025 communication strategy
-- **Deep Cultural Insights**: In-depth cultural analysis with specific questions about preferences, beliefs, and behaviors
-- **Automated Insights**: Chart-specific insights generation for each section
-- **Export Capabilities**: Download filtered data as CSV
+This dashboard is deployed as a static HTML file on **GitHub Pages**.
 
-## Key Metrics
+### Access the Dashboard
 
-- **Target Percent**: Percentage representation of the Hilton Deep Divers segment
-- **Control Percent**: National average for comparison
-- **Index**: Relative affinity metric (100 = national average, >150 = strong over-indexing)
+Visit: `https://ojpb2000.github.io/deep-dive-audience-dashboard/`
 
-## Data Source
+### Local Development
 
-YouGov Profiles+ USA 2025-12-07
-- Target Group: Hilton Deep Divers (n=93)
-- Control Group: Nationally representative (n=411,511)
-
-## Installation
-
-1. Install dependencies:
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/ojpb2000/deep-dive-audience-dashboard.git
 ```
 
-2. Ensure the CSV file is in the root directory:
-- `Various_HIlton - Deep DiversvsNationally representative.csv`
+2. Open `index.html` in your browser
 
-3. Run the application:
-```bash
-streamlit run app.py
-```
+## 📁 Project Structure
 
-## Deployment Options
+- `index.html` - Static HTML dashboard (ready for GitHub Pages)
+- `generate_static_dashboard.py` - Script to regenerate the dashboard from CSV data
+- `data_parser.py` - CSV parsing and data processing utilities
+- `Various_HIlton - Deep DiversvsNationally representative.csv` - Source data file
 
-### Option 1: Streamlit Community Cloud (⭐ Recommended - Free)
+## 📈 Data Source
 
-1. Push your code to GitHub (see `GITHUB_SETUP.md`)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click "New app"
-5. Select your repository: `ojpb2000/deep-divers-yougov`
-6. Main file path: `app.py`
-7. Click "Deploy"
-8. Your dashboard will be live at a public URL!
+- **Source**: YouGov Profiles+ USA 2025-12-07
+- **Target Group**: 93 respondents (Hilton Deep Divers)
+- **Control Group**: 411,511 nationally representative respondents
 
-### Option 2: Replit
+## 🎯 Audience Profile
 
-This project is configured for Replit deployment:
+The Hilton Deep Divers audience consists of:
+- **Demographics**: 35-44 years old
+- **Income**: 200%+ of national median
+- **Characteristics**: High-income, luxury-oriented consumers who value quality and premium experiences
 
-1. Import the project into Replit (from GitHub or upload files)
-2. The `.replit` file will automatically configure the run command
-3. Click "Run" to start the dashboard
-4. The dashboard will be available on the Replit webview
+## 🔧 Key Metrics
 
-See `REPLIT_DEPLOYMENT.md` for detailed instructions.
+- **Target Percent**: Representativeness of the core segment (Hilton Deep Divers)
+- **Control Percent**: National representativeness
+- **Index**: Affinity indicator (Index ≥120 indicates good affinity)
 
-### Option 3: Local Development
+## 📝 Notes
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-Access at `http://localhost:8080`
-
-## Project Structure
-
-```
-.
-├── app.py              # Main Streamlit application
-├── data_parser.py      # CSV parsing and data processing
-├── requirements.txt    # Python dependencies
-├── .replit             # Replit configuration
-├── .streamlit/         # Streamlit configuration
-│   └── config.toml
-├── Various_HIlton - Deep DiversvsNationally representative.csv  # Data file
-├── GITHUB_SETUP.md     # Guide for GitHub setup
-├── REPLIT_DEPLOYMENT.md # Guide for Replit deployment
-└── README.md           # This file
-```
-
-## Usage
-
-### Main Dashboard
-1. Use the sidebar to navigate between categories and sections
-2. Adjust filters to focus on specific metrics or index ranges
-3. Explore different chart types in the tabs (Comparison, Index Analysis, Scatter Plot, Data Table)
-4. Review automated insights for each chart
-5. Export filtered data as needed
-
-### AI Strategic Analysis
-- Click "🤖 View AI Summary" in the sidebar
-- Get comprehensive 10-insight analysis for Q2 2025 communication strategy
-- Each insight includes charts and strategic implications
-
-### Deep Cultural Insights
-- Click "🔍 Deep Cultural Insights" in the sidebar
-- Explore specific cultural questions:
-  - What hotels and destinations do they prefer?
-  - What do they do during vacations?
-  - What spring activities can we leverage for Q2?
-  - What type of concerts/events do they like?
-  - What sports/leagues do they follow?
-  - What do they like to do? (hobbies)
-  - What do they believe in?
-  - What do they detest/reject?
-  - What brands do they like?
-  - Cultural patterns and connections
-
-## Insights Interpretation
-
-- **Index ≥120**: Good affinity - 20%+ more likely than national average
-- **Index 100-120**: Moderate affinity
-- **Index <100**: Under-indexing - less likely than average
-
-## License
-
-Internal use for Hilton analytics.
-
+- All texts and labels are in English
+- Dashboard starts filtered on "Travel & Hospitality" category and "Leisure trips - most preferred" section
+- Minimum Index filter defaults to 120
