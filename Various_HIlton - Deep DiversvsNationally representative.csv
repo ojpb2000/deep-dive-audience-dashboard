@@ -1,0 +1,1507 @@
+﻿Profiles+ USA 2025-12-07
+"Variables sets: Travel activities, Consumer personalities, DestinationIndex: Current Customer, Statements agreed with about Travel, Amusement, Cruise, Travel Agents: Purchase Intent, DestinationIndex: Positive Satisfaction, Amusement, Cruise, Travel Agents: Former Customer, Leisure trips - most preferred, Amusement, Cruise, Travel Agents: Positive Satisfaction, Statements disagreed with about Travel, Amusement, Cruise, Travel Agents: Aided Brand Awareness (last 60 days), DestinationIndex: Aided Brand Awareness (last 60 days), Hotels: Current Customer, Traditional, In Market: Hotels (1 year), Level of agreement (5-point scale): ""I prefer visiting local attractions"", Music festival behaviour type, Grammy Awards - level of interest, Topics and hobbies of interest, Music festival genre, Leisure interests, Sport in general - level of interest, Other sports - level of interest, NFL Combine - level of interest, Springtime activities, Wintertime activities, Autumntime activities, Hobbies, Importance of 'the atmosphere' when choosing a music festival to attend, FIFA Football World Cup - level of interest, Wimbledon - level of interest, Major League Soccer - level of interest, Formula 1 - level of interest, U.S. Open (golf) - level of interest, NBA - level of interest, NFL - level of interest, MLB World Series - level of interest, NASCAR - level of interest, Importance of 'VIP access (e.g. dedicated bars, premium view of stage, meet and greet session, etc.)' when choosing a music festival to attend, Daytona 500 (NASCAR) - level of interest, Copa Libertadores  - level of interest, Esports- level of interest - Top 3, College Football Playoff - level of interest, PGA Championship (golf) - level of interest, SportsIndex- Events: Positive Satisfaction, Skincare & Cosmetics: Purchase Intent, Gambling & Casinos: Consideration (last 60 days), Clothing (All other): Aided Brand Awareness (last 60 days), Communications, Media, and Technology: Ad Awareness (last 90 days), Online Brands: Word of Mouth Exposure (last 90 days), Online Brands: Recommend (last 90 days): Positive, Clothing (Women's): Aided Brand Awareness (last 28 days), Retail: Apparel, footwear and accessories I: Reputation (last 28 days): Positive, Household and Personal Care: Current Customer (last 60 days)"
+Target Group: HIlton - Deep Divers (n. 93)
+"Target Group description: Household appliances is any of [4, 5 - Prefer to pay more for luxury good] AND Luxurious is Luxurious - Identifies with AND Income (Lower/Middle/Higher) is Higher income: higher than 200% of the median AND Age (6-way) 18-24 / 25-34 / 35-44 / 45-54 / 55-64 / 65+ is 35-44"
+Control Group: Nationally representative (n. 411511)
+Control Group description: Nationally representative
+Number of Columns: 13
+Number of Rows: 1285
+
+"Skincare & Cosmetics: Purchase Intent, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of these would you be most likely to use?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Desitin,22.14%,1,4,4,0.49%,85,17462,21761,1.35,21.65,4556.06,294669
+Lush,16.60%,1,5,6,0.98%,172,17627,21871,1.41,15.62,1696.19,220868
+NYX,19.53%,1,6,8,1.49%,259,17321,21847,1.61,18.03,1307.01,259901
+Estée Lauder,13.84%,1,6,8,1.67%,295,17698,22084,1.44,12.17,829.39,184206
+Native,24.67%,1,3,4,3.10%,493,15912,19592,1.34,21.57,796.94,328311
+Eucerin,11.28%,1,7,9,2.89%,504,17456,21844,1.27,8.40,390.98,150176
+L'Oréal Paris,11.38%,1,6,8,3.73%,652,17456,21824,1.21,7.64,304.65,151426
+Ulta Beauty,9.04%,0,5,8,3.06%,535,17488,21948,1.20,5.98,295.48,120301
+Nivea,12.55%,1,6,8,5.46%,958,17556,21803,1.11,7.10,230.01,167093
+SoftSoap,13.32%,1,5,7,6.54%,1146,17514,21930,1.07,6.78,203.66,177303
+Gold Bond,11.64%,1,7,8,7.04%,1214,17247,21903,0.93,4.60,165.29,154882
+Cetaphil,6.89%,0,7,10,4.35%,751,17282,21793,1.02,2.54,158.40,91642
+Dove,33.29%,2,6,8,23.75%,4141,17437,21674,0.79,9.54,140.18,443078
+Age Perfect,0.00%,0,5,7,0.45%,78,17376,21834,1.04,-0.45,0.00,0
+Amway,0.00%,0,7,10,0.30%,53,17438,21887,1.06,-0.30,0.00,0
+Aquaphor,0.00%,0,3,5,4.12%,719,17446,21966,0.83,-4.12,0.00,0
+Aveda,0.00%,0,9,11,0.91%,158,17406,21917,0.97,-0.91,0.00,0
+Aveeno,0.00%,0,7,10,5.78%,991,17149,21827,0.50,-5.78,0.00,0
+Aveeno Baby,0.00%,0,5,6,0.72%,125,17505,21807,0.97,-0.72,0.00,0
+Avon,0.00%,0,8,10,1.51%,263,17412,21783,0.89,-1.51,0.00,0
+Baby Magic,0.00%,0,8,10,0.38%,66,17379,21759,1.02,-0.38,0.00,0
+Banana Boat,0.00%,0,4,6,1.55%,268,17309,21656,0.94,-1.55,0.00,0
+Bath & Body Works,0.00%,0,4,5,10.26%,1800,17545,21938,0.38,-10.26,0.00,0
+Bio Oil,0.00%,0,8,10,0.63%,110,17322,21844,0.98,-0.63,0.00,0
+Biore,0.00%,0,6,9,0.71%,124,17351,21746,1.05,-0.71,0.00,0
+Boots No. 7,0.00%,0,5,7,0.41%,71,17365,21711,1.01,-0.41,0.00,0
+CeraVe,0.00%,0,5,7,10.83%,1910,17641,21888,0.20,-10.83,0.00,0
+Clarins,0.00%,0,5,7,0.24%,43,17700,21858,1.04,-0.24,0.00,0
+Clean & Clear,0.00%,0,4,6,1.73%,302,17435,21689,0.93,-1.73,0.00,0
+Clearasil,0.00%,0,6,7,1.06%,183,17250,21592,0.92,-1.06,0.00,0
+Clinique,0.00%,0,5,7,2.89%,507,17563,21937,0.88,-2.89,0.00,0
+ColourPop,0.00%,0,10,13,0.68%,118,17372,21671,1.00,-0.68,0.00,0
+Coppertone,0.00%,0,4,5,1.77%,308,17411,21840,0.87,-1.77,0.00,0
+Cover Girl,0.00%,0,2,3,4.53%,800,17639,22067,0.77,-4.53,0.00,0
+Differin,0.00%,0,6,8,0.48%,85,17568,21997,1.04,-0.48,0.00,0
+Dove Baby,0.00%,0,5,7,1.14%,199,17437,21872,0.97,-1.14,0.00,0
+e.l.f Cosmetics,0.00%,0,7,9,5.54%,962,17358,21742,0.54,-5.54,0.00,0
+eos,0.00%,0,8,10,1.46%,261,17895,22019,0.91,-1.46,0.00,0
+Essie,0.00%,0,4,5,0.30%,53,17486,21703,1.01,-0.30,0.00,0
+Fenty,0.00%,0,7,9,1.04%,184,17711,21915,0.98,-1.04,0.00,0
+Garnier,0.00%,0,6,7,2.66%,466,17542,21832,0.83,-2.66,0.00,0
+Glossier,0.00%,0,2,3,0.33%,57,17372,21774,0.94,-0.33,0.00,0
+Hawaiian Tropic,0.00%,0,5,6,1.16%,204,17675,21889,0.96,-1.16,0.00,0
+Jergens,0.00%,0,8,10,4.91%,859,17506,21790,0.55,-4.91,0.00,0
+Johnson's Baby,0.00%,0,7,10,2.09%,368,17600,21888,0.89,-2.09,0.00,0
+Kiehl's,0.00%,0,4,6,1.02%,179,17514,21898,0.98,-1.02,0.00,0
+L'Occitane en Provence,0.00%,0,5,8,0.51%,86,17028,21549,1.08,-0.51,0.00,0
+La Roche Posay,0.00%,0,7,8,2.29%,405,17650,21909,0.81,-2.29,0.00,0
+Lancome,0.00%,0,6,8,1.43%,250,17479,21989,0.96,-1.43,0.00,0
+Lubriderm,0.00%,0,6,7,2.83%,504,17800,21980,0.81,-2.83,0.00,0
+M.A.C,0.00%,0,8,10,1.05%,185,17604,21777,0.94,-1.05,0.00,0
+Maybelline,0.00%,0,2,3,5.43%,954,17554,21808,0.70,-5.43,0.00,0
+Neutrogena,0.00%,0,5,6,8.64%,1517,17552,21888,0.44,-8.64,0.00,0
+Olay,0.00%,0,6,8,7.63%,1331,17446,21747,0.41,-7.63,0.00,0
+Origins,0.00%,0,9,11,0.33%,59,17548,22021,1.03,-0.33,0.00,0
+Oxy,0.00%,0,5,7,0.48%,84,17630,21734,1.05,-0.48,0.00,0
+Proactiv,0.00%,0,7,9,0.77%,136,17715,22033,1.02,-0.77,0.00,0
+Revitalift,0.00%,0,4,5,0.68%,117,17317,21765,0.99,-0.68,0.00,0
+Revlon,0.00%,0,5,7,1.95%,338,17345,21787,0.91,-1.95,0.00,0
+Rimmel London,0.00%,0,7,9,0.45%,78,17448,21881,1.00,-0.45,0.00,0
+RoC,0.00%,0,8,10,0.85%,149,17618,21982,0.98,-0.85,0.00,0
+Sally Hansen,0.00%,0,6,8,0.76%,133,17520,21900,1.01,-0.76,0.00,0
+Sephora,0.00%,0,4,6,2.91%,517,17775,21945,0.88,-2.91,0.00,0
+Simple,0.00%,0,5,7,0.37%,65,17709,21890,1.02,-0.37,0.00,0
+Smashbox,0.00%,0,4,5,0.22%,38,17340,21872,1.03,-0.22,0.00,0
+St. Ives,0.00%,0,6,8,1.79%,313,17501,21935,0.92,-1.79,0.00,0
+The Body Shop,0.00%,0,5,7,0.42%,74,17557,21757,1.01,-0.42,0.00,0
+The Honest Company,0.00%,0,4,6,0.88%,154,17546,21931,0.99,-0.88,0.00,0
+Too Faced,0.00%,0,7,9,0.37%,65,17469,21643,1.04,-0.37,0.00,0
+True Match,0.00%,0,5,7,0.34%,59,17680,21939,1.04,-0.34,0.00,0
+Urban Decay,0.00%,0,7,9,0.53%,92,17333,21913,0.99,-0.53,0.00,0
+Vaseline,0.00%,0,4,6,11.47%,2041,17790,22042,0.27,-11.47,0.00,0
+
+"Hotels: Current Customer, Target: HIlton - Deep Divers, Control: Nationally representative"
+Have you stayed at any of the following hotels or accommodation services in the past 12 months?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Marriott Vacation Club,32.23%,1,2,4,1.03%,159,15482,19698,1.60,31.21,3134.47,429003
+Hyatt House,19.94%,0,2,4,1.13%,175,15484,19498,1.37,18.81,1760.57,265370
+Hyatt Regency,26.11%,1,4,6,1.85%,287,15510,19725,1.68,24.26,1409.05,347479
+Omni Hotels,9.79%,1,7,10,0.71%,109,15446,19558,1.46,9.09,1383.27,130359
+Grand Hyatt,10.32%,0,5,7,0.84%,128,15166,19606,1.35,9.48,1221.73,137386
+Aloft,9.28%,0,5,8,0.90%,139,15382,19625,1.37,8.38,1027.76,123520
+Westin,14.69%,1,5,7,1.48%,228,15389,19480,1.45,13.21,990.59,195509
+Residence Inn,13.64%,1,4,6,2.02%,312,15424,19462,1.32,11.62,674.85,181536
+Courtyard by Marriott,38.67%,2,5,7,6.10%,917,15029,19412,1.92,32.57,633.60,514661
+Hampton Inn,33.14%,1,4,6,6.05%,930,15363,19688,1.64,27.08,547.32,441044
+Homewood Suites,8.47%,0,6,9,1.65%,253,15330,19548,1.33,6.82,513.64,112702
+DoubleTree by Hilton,20.09%,1,4,6,4.00%,617,15428,19529,1.40,16.09,502.09,267347
+Marriott,36.36%,2,5,8,9.22%,1425,15457,19493,1.79,27.14,394.40,483945
+Embassy Suites,9.10%,1,6,9,2.88%,442,15353,19404,1.23,6.22,315.91,121157
+Holiday Inn Express,24.33%,1,4,7,7.83%,1215,15531,19518,1.39,16.51,310.95,323873
+VRBO,9.61%,0,5,8,3.38%,516,15267,19407,1.22,6.24,284.52,127959
+Airbnb,9.08%,0,5,8,13.54%,2073,15313,19443,0.46,-4.46,67.06,120809
+Beaches Resorts,0.00%,0,3,5,0.46%,71,15336,19662,1.04,-0.46,0.00,0
+Best Western,0.00%,0,6,9,5.93%,912,15370,19646,0.56,-5.93,0.00,0
+Comfort Inn,0.00%,0,4,5,5.84%,902,15444,19560,0.66,-5.84,0.00,0
+Country Inn & Suites,0.00%,0,5,7,2.15%,330,15329,19603,0.95,-2.15,0.00,0
+Crowne Plaza,0.00%,0,3,5,1.08%,164,15213,19361,1.00,-1.08,0.00,0
+Days Inn,0.00%,0,3,4,4.34%,675,15558,19590,0.83,-4.34,0.00,0
+Econo Lodge,0.00%,0,5,7,1.49%,228,15319,19603,1.00,-1.49,0.00,0
+Extended Stay America,0.00%,0,5,7,1.51%,230,15226,19520,0.99,-1.51,0.00,0
+Four Seasons,0.00%,0,2,3,1.65%,252,15332,19512,0.92,-1.65,0.00,0
+Hilton,0.00%,0,3,5,8.93%,1367,15301,19564,0.56,-8.93,0.00,0
+Hilton Garden Inn,0.00%,0,2,3,4.24%,653,15402,19692,0.87,-4.24,0.00,0
+Holiday Inn,0.00%,0,5,7,7.82%,1181,15105,19384,0.52,-7.82,0.00,0
+Hotel Indigo,0.00%,0,2,3,0.58%,91,15544,19689,0.98,-0.58,0.00,0
+Hyatt,0.00%,0,6,8,3.00%,459,15288,19576,0.82,-3.00,0.00,0
+Hyatt Place,0.00%,0,3,5,1.79%,279,15558,19711,0.98,-1.79,0.00,0
+InterContinental (IHG),0.00%,0,5,7,2.21%,339,15335,19736,0.96,-2.21,0.00,0
+JW Marriott,0.00%,0,2,3,2.21%,338,15280,19431,0.91,-2.21,0.00,0
+Kimpton,0.00%,0,4,6,0.67%,104,15529,19548,1.07,-0.67,0.00,0
+La Quinta Inn,0.00%,0,5,7,4.09%,628,15355,19583,0.76,-4.09,0.00,0
+Mandarin Oriental,0.00%,0,4,6,0.20%,31,15473,19568,1.08,-0.20,0.00,0
+Motel 6,0.00%,0,6,9,4.09%,635,15519,19688,0.74,-4.09,0.00,0
+Park Hyatt,0.00%,0,1,1,0.61%,94,15404,19528,0.73,-0.61,0.00,0
+Radisson,0.00%,0,5,7,1.05%,161,15255,19466,1.00,-1.05,0.00,0
+Ramada,0.00%,0,4,6,1.55%,238,15350,19623,0.97,-1.55,0.00,0
+Red Roof Inn,0.00%,0,4,6,1.86%,287,15466,19474,0.97,-1.86,0.00,0
+Ritz-Carlton,0.00%,0,4,6,0.73%,113,15476,19505,1.08,-0.73,0.00,0
+Sandals Resorts,0.00%,0,5,7,0.60%,92,15324,19398,1.06,-0.60,0.00,0
+Shangri-La,0.00%,0,4,6,0.26%,40,15408,19623,1.10,-0.26,0.00,0
+Sheraton,0.00%,0,5,7,2.71%,418,15421,19561,0.92,-2.71,0.00,0
+Springhill Suites,0.00%,0,7,10,1.63%,252,15451,19622,0.96,-1.63,0.00,0
+Super 8 Motels,0.00%,0,5,7,3.29%,508,15409,19503,0.87,-3.29,0.00,0
+TownePlace Suites,0.00%,0,5,7,0.94%,147,15669,19592,1.04,-0.94,0.00,0
+Trump Hotels,0.00%,0,5,7,0.65%,100,15418,19615,1.04,-0.65,0.00,0
+W Hotels,0.00%,0,4,5,0.78%,118,15085,19348,1.00,-0.78,0.00,0
+Waldorf-Astoria,0.00%,0,1,2,0.44%,67,15321,19542,0.91,-0.44,0.00,0
+Wyndham,0.00%,0,3,5,3.61%,558,15491,19665,0.87,-3.61,0.00,0
+
+"DestinationIndex: Current Customer, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following destinations have you visited within the past 12 months?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Iceland,6.91%,0,7,10,0.38%,75,19784,24604,1.36,6.53,1820.62,92007
+Italy,15.53%,1,6,9,1.90%,372,19652,24536,1.54,13.64,819.72,206743
+Puerto Rico,7.87%,0,6,9,1.49%,296,19827,24574,1.29,6.37,526.45,104681
+Canada,16.78%,1,7,10,4.03%,798,19826,24602,1.48,12.75,416.63,223325
+Florida (US),67.48%,4,6,9,17.40%,3437,19751,24560,2.86,50.08,387.77,898141
+New York (US),45.09%,3,7,9,14.89%,2949,19806,24587,1.89,30.20,302.80,600079
+United Kingdom (UK),7.80%,0,6,9,2.68%,529,19756,24573,1.19,5.12,291.32,103804
+California (US),6.91%,0,7,10,14.55%,2880,19793,24568,0.15,-7.64,47.50,92007
+Abu Dhabi,0.00%,0,6,9,0.39%,77,19743,24592,1.13,-0.39,0.00,0
+Arizona (USA),0.00%,0,7,10,7.68%,1510,19652,24586,0.33,-7.68,0.00,0
+Australia,0.00%,0,7,10,0.58%,114,19732,24507,1.05,-0.58,0.00,0
+Barcelona,0.00%,0,7,9,1.05%,207,19769,24538,0.99,-1.05,0.00,0
+China,0.00%,0,7,9,0.37%,72,19653,24539,1.05,-0.37,0.00,0
+Dubai (United Arab Emirates),0.00%,0,7,10,0.48%,94,19777,24621,1.06,-0.48,0.00,0
+France,0.00%,0,6,9,1.95%,387,19822,24579,0.93,-1.95,0.00,0
+Germany,0.00%,0,7,10,1.53%,301,19716,24563,0.95,-1.53,0.00,0
+Hong Kong,0.00%,0,7,9,0.40%,78,19704,24575,1.05,-0.40,0.00,0
+Las Vegas,0.00%,0,7,9,8.02%,1587,19794,24585,0.33,-8.02,0.00,0
+Malaysia,0.00%,0,7,10,0.24%,47,19849,24627,1.08,-0.24,0.00,0
+Maldives,0.00%,0,7,10,0.13%,26,19828,24575,1.09,-0.13,0.00,0
+Mexico,0.00%,0,7,10,4.73%,936,19779,24562,0.63,-4.73,0.00,0
+Okinawa,0.00%,0,7,9,0.24%,48,19760,24582,1.06,-0.24,0.00,0
+Philippines,0.00%,0,7,10,0.32%,64,19751,24577,1.07,-0.32,0.00,0
+Qatar,0.00%,0,7,9,0.22%,43,19751,24511,1.06,-0.22,0.00,0
+Saudi Arabia,0.00%,0,7,10,0.18%,35,19795,24596,1.09,-0.18,0.00,0
+Scotland,0.00%,0,7,10,0.62%,123,19775,24562,1.04,-0.62,0.00,0
+Singapore,0.00%,0,5,8,0.30%,60,19799,24524,1.12,-0.30,0.00,0
+South Korea,0.00%,0,7,10,0.60%,119,19745,24587,1.05,-0.60,0.00,0
+Spain,0.00%,0,7,10,1.43%,283,19771,24543,0.96,-1.43,0.00,0
+State of Hawaii (US),0.00%,0,6,8,2.48%,490,19742,24577,0.85,-2.48,0.00,0
+Sweden,0.00%,0,7,10,0.27%,53,19767,24534,1.08,-0.27,0.00,0
+Thailand,0.00%,0,6,9,0.42%,82,19750,24542,1.07,-0.42,0.00,0
+
+"Online Brands: Word of Mouth Exposure (last 90 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+"Which of the following online brands have you talked about with friends and family in the PAST TWO WEEKS (whether in-person, online, or through social media)?"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+GoDaddy,42.15%,1,1,2,2.58%,158,6127,6507,1.25,39.57,1634.53,560971
+Yelp,23.54%,1,3,4,2.08%,140,6765,7303,1.35,21.46,1134.04,313303
+Bluesky,27.73%,1,3,4,3.28%,218,6649,7224,1.39,24.45,844.33,369091
+YouTube Kids,39.42%,1,2,3,4.81%,325,6747,7297,1.39,34.61,819.58,524714
+iMessage,54.90%,2,3,4,7.07%,462,6540,7198,1.83,47.83,776.82,730675
+Discord,22.78%,1,4,5,6.72%,451,6706,7237,1.23,16.05,338.84,303129
+Reddit,27.95%,1,3,4,8.75%,590,6740,7294,1.17,19.20,319.38,371948
+Google Chrome,28.19%,1,3,4,9.00%,610,6781,7293,1.17,19.19,313.23,375169
+X (formerly Twitter),41.61%,1,4,5,14.04%,924,6581,7226,1.38,27.57,296.46,553781
+LinkedIn,19.82%,1,4,5,7.66%,507,6611,7181,1.12,12.16,258.73,263824
+Google Search,22.78%,1,4,5,11.40%,762,6681,7255,1.01,11.37,199.76,303129
+Google Maps,24.53%,1,3,4,12.99%,871,6703,7215,0.92,11.54,188.86,326523
+YouTube,54.90%,2,3,4,32.53%,2179,6700,7189,0.81,22.37,168.77,730675
+Google,23.54%,1,3,4,17.41%,1156,6642,7190,0.71,6.13,135.19,313303
+Facebook,42.60%,2,4,5,34.90%,2323,6655,7186,0.47,7.70,122.05,566954
+Instagram,25.67%,1,3,4,21.76%,1464,6729,7256,0.59,3.91,117.97,341634
+Amazon,47.15%,0,1,2,50.05%,3531,7055,7702,-0.03,-2.90,94.21,627529
+TikTok,19.82%,1,4,5,25.94%,1732,6677,7231,0.23,-6.12,76.42,263824
+23andMe,0.00%,0,1,2,3.19%,192,6002,6463,0.82,-3.19,0.00,0
+A Place for Mom,0.00%,0,1,2,1.26%,85,6730,7235,0.91,-1.26,0.00,0
+AliExpress,0.00%,0,0,1,4.78%,339,7086,7707,0.72,-4.78,0.00,0
+Amazon Music,0.00%,0,1,1,11.39%,696,6111,6491,0.51,-11.39,0.00,0
+Amazon Prime,0.00%,0,1,2,37.32%,2266,6071,6454,-0.23,-37.32,0.00,0
+Ancestry,0.00%,0,1,2,6.97%,425,6093,6436,0.71,-6.97,0.00,0
+Android Message,0.00%,0,4,5,3.39%,227,6680,7249,0.85,-3.39,0.00,0
+Apple Music,0.00%,0,1,1,11.22%,676,6020,6430,0.57,-11.22,0.00,0
+Apple News,0.00%,0,1,2,4.30%,261,6068,6470,0.79,-4.30,0.00,0
+AutoTrader.com,0.00%,0,1,2,1.99%,141,7086,7667,0.93,-1.99,0.00,0
+AXS,0.00%,0,2,3,1.16%,81,7036,7665,1.03,-1.16,0.00,0
+Barstool Sports,0.00%,0,4,5,1.64%,109,6669,7287,0.95,-1.64,0.00,0
+Bing,0.00%,0,4,5,2.14%,143,6688,7251,0.92,-2.14,0.00,0
+Bloomberg.com,0.00%,0,1,1,1.96%,120,6118,6455,0.76,-1.96,0.00,0
+Blue Apron,0.00%,0,1,2,1.98%,120,6091,6484,0.86,-1.98,0.00,0
+Bumble,0.00%,0,1,2,1.65%,99,6002,6451,0.87,-1.65,0.00,0
+Calm,0.00%,0,1,2,2.39%,143,5980,6418,0.85,-2.39,0.00,0
+CarGurus,0.00%,0,2,3,1.53%,109,7098,7722,1.01,-1.53,0.00,0
+CarMax,0.00%,0,1,2,4.85%,345,7115,7697,0.84,-4.85,0.00,0
+Cars.com,0.00%,0,2,3,2.62%,187,7120,7759,0.97,-2.62,0.00,0
+Craigslist,0.00%,0,1,2,6.41%,446,6958,7645,0.78,-6.41,0.00,0
+DocuSign,0.00%,0,1,2,3.53%,217,6137,6447,0.81,-3.53,0.00,0
+DoorDash,0.00%,0,2,3,21.80%,1565,7178,7735,0.23,-21.80,0.00,0
+Dropbox,0.00%,0,4,5,1.79%,120,6698,7265,0.95,-1.79,0.00,0
+eBay,0.00%,0,2,3,17.89%,1273,7118,7750,0.38,-17.89,0.00,0
+Economist.com,0.00%,0,1,1,1.36%,83,6127,6464,0.72,-1.36,0.00,0
+Edmunds,0.00%,0,1,2,0.89%,63,7144,7756,0.96,-0.89,0.00,0
+Etsy,0.00%,0,2,3,11.76%,841,7151,7713,0.62,-11.76,0.00,0
+Eventbrite,0.00%,0,2,3,1.67%,118,7030,7681,1.01,-1.67,0.00,0
+Financialtimes.com,0.00%,0,1,2,0.70%,42,5972,6446,0.90,-0.70,0.00,0
+Glassdoor,0.00%,0,3,4,1.25%,84,6700,7312,0.96,-1.25,0.00,0
+GoodRx,0.00%,0,1,1,9.59%,585,6097,6488,0.60,-9.59,0.00,0
+Google Docs,0.00%,0,4,5,5.71%,383,6720,7252,0.72,-5.71,0.00,0
+Google Photos,0.00%,0,3,4,6.48%,438,6754,7199,0.68,-6.48,0.00,0
+Groupon,0.00%,0,2,3,3.33%,235,7055,7698,0.94,-3.33,0.00,0
+Grubhub,0.00%,0,2,3,5.09%,362,7106,7736,0.88,-5.09,0.00,0
+Headspace,0.00%,0,1,1,1.32%,80,6068,6444,0.72,-1.32,0.00,0
+HelloFresh,0.00%,0,1,2,4.38%,265,6041,6519,0.79,-4.38,0.00,0
+Hinge,0.00%,0,1,2,1.99%,122,6109,6458,0.86,-1.99,0.00,0
+Home Chef,0.00%,0,1,2,2.12%,130,6135,6550,0.86,-2.12,0.00,0
+Homes.com,0.00%,0,2,3,3.11%,220,7091,7725,0.95,-3.11,0.00,0
+iHeartRadio,0.00%,0,1,2,5.52%,340,6154,6480,0.75,-5.52,0.00,0
+IMDb,0.00%,0,1,2,5.12%,312,6082,6427,0.76,-5.12,0.00,0
+Indeed,0.00%,0,2,3,6.93%,460,6641,7265,0.67,-6.93,0.00,0
+Insider.com,0.00%,0,1,2,0.72%,44,6068,6423,0.90,-0.72,0.00,0
+Instacart,0.00%,0,2,3,10.05%,720,7164,7780,0.69,-10.05,0.00,0
+LegalShield,0.00%,0,1,1,1.26%,76,6021,6443,0.77,-1.26,0.00,0
+LegalZoom,0.00%,0,1,2,1.19%,72,6002,6463,0.88,-1.19,0.00,0
+Live Nation,0.00%,0,1,2,1.49%,106,7105,7708,0.94,-1.49,0.00,0
+Match.com,0.00%,0,1,1,1.87%,115,6143,6529,0.76,-1.87,0.00,0
+MotorTrend,0.00%,0,2,3,1.17%,83,7063,7739,1.03,-1.17,0.00,0
+MyHeritage,0.00%,0,0,0,0.72%,15,2075,2133,0.00,-0.72,0.00,-
+Neighbors by Ring,0.00%,0,3,4,1.67%,114,6787,7250,0.95,-1.67,0.00,0
+nytimes.com,0.00%,0,1,1,5.28%,318,6015,6486,0.69,-5.28,0.00,0
+OK Cupid,0.00%,0,1,1,0.80%,48,6008,6474,0.73,-0.80,0.00,0
+Pandora,0.00%,0,1,1,7.69%,469,6104,6541,0.64,-7.69,0.00,0
+Pinterest,0.00%,0,4,5,11.16%,741,6638,7213,0.40,-11.16,0.00,0
+Postmates,0.00%,0,2,3,1.43%,101,7087,7718,1.02,-1.43,0.00,0
+Rakuten,0.00%,0,1,2,2.60%,183,7026,7646,0.90,-2.60,0.00,0
+Realtor.com,0.00%,0,2,3,3.35%,238,7100,7720,0.94,-3.35,0.00,0
+Redfin,0.00%,0,2,3,1.70%,121,7121,7724,1.01,-1.70,0.00,0
+Rocket Lawyer,0.00%,0,1,1,1.06%,65,6082,6504,0.73,-1.06,0.00,0
+Rover,0.00%,0,2,3,1.31%,93,7086,7734,1.02,-1.31,0.00,0
+Seamless,0.00%,0,2,3,0.42%,30,7145,7719,1.06,-0.42,0.00,0
+SeatGeek,0.00%,0,2,3,1.50%,106,7057,7742,1.02,-1.50,0.00,0
+Shop App,0.00%,0,1,1,1.92%,22,1168,1238,0.76,-1.92,0.00,0
+Shopify,0.00%,0,1,2,5.12%,315,6145,6514,0.76,-5.12,0.00,0
+Snapchat,0.00%,0,4,5,9.50%,627,6606,7255,0.50,-9.50,0.00,0
+Spotify,0.00%,0,1,1,19.25%,1175,6105,6490,0.35,-19.25,0.00,0
+Squarespace,0.00%,0,0,0,0.60%,37,6065,6528,0.00,-0.60,0.00,-
+StubHub,0.00%,0,1,2,2.55%,180,7070,7696,0.90,-2.55,0.00,0
+Telegram,0.00%,0,3,4,4.97%,333,6704,7222,0.79,-4.97,0.00,0
+Temu,0.00%,0,2,3,19.96%,1407,7049,7740,0.30,-19.96,0.00,0
+Threads,0.00%,0,4,5,4.43%,297,6701,7271,0.79,-4.43,0.00,0
+Thumbtack,0.00%,0,2,3,1.02%,72,7081,7779,1.03,-1.02,0.00,0
+Ticketmaster,0.00%,0,2,3,8.82%,631,7158,7727,0.73,-8.82,0.00,0
+Tinder,0.00%,0,1,2,4.87%,296,6071,6506,0.77,-4.87,0.00,0
+Twitch,0.00%,0,3,4,3.49%,234,6703,7222,0.86,-3.49,0.00,0
+Uber Eats,0.00%,0,2,3,16.36%,1165,7123,7642,0.44,-16.36,0.00,0
+Vistaprint,0.00%,0,1,2,2.02%,143,7094,7688,0.93,-2.02,0.00,0
+VividSeats,0.00%,0,1,2,1.49%,106,7073,7720,0.93,-1.49,0.00,0
+Walmart Plus,0.00%,0,1,2,15.25%,935,6131,6503,0.45,-15.25,0.00,0
+washingtonpost.com,0.00%,0,1,2,3.65%,224,6125,6517,0.81,-3.65,0.00,0
+Web.com,0.00%,0,1,2,0.94%,58,6167,6614,0.89,-0.94,0.00,0
+WhatsApp,0.00%,0,4,5,12.95%,870,6717,7284,0.30,-12.95,0.00,0
+Wix.com,0.00%,0,1,1,1.18%,73,6200,6530,0.72,-1.18,0.00,0
+WSJ.com,0.00%,0,1,1,2.23%,136,6103,6542,0.70,-2.23,0.00,0
+Yahoo,0.00%,0,3,4,5.05%,337,6671,7232,0.77,-5.05,0.00,0
+YouTube Music / YouTube Premium,0.00%,0,1,1,20.44%,1234,6034,6401,0.38,-20.44,0.00,0
+Zillow,0.00%,0,2,3,11.45%,804,7022,7680,0.63,-11.45,0.00,0
+ZipRecruiter,0.00%,0,3,4,1.81%,121,6705,7239,0.91,-1.81,0.00,0
+
+"SportsIndex- Events: Positive Satisfaction, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following events are you INTERESTED IN?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+NHL All-Star Game (SportsIndex- Events: Satisfaction),44.35%,1,3,4,2.77%,555,20023,25862,1.76,41.58,1599.50,590290
+NHL Draft (SportsIndex- Events: Satisfaction),19.24%,1,3,4,1.41%,283,20032,25841,1.30,17.83,1362.54,256046
+NBA Cup (SportsIndex- Events: Satisfaction),21.91%,1,4,5,3.61%,723,20035,25879,1.35,18.30,607.03,291556
+NFL Kickoff Game (SportsIndex- Events: Satisfaction),40.97%,2,4,5,7.10%,1418,19968,25825,1.67,33.87,576.90,545307
+NHL Stanley Cup Finals (SportsIndex- Events: Satisfaction),34.64%,1,4,5,7.58%,1510,19906,25761,1.48,27.05,456.65,460980
+NFL International Games (SportsIndex- Events: Satisfaction),19.07%,1,4,5,4.32%,862,19953,25859,1.25,14.74,441.24,253751
+College Football Playoff (SportsIndex- Events: Satisfaction),43.46%,2,4,5,13.59%,2723,20041,25855,1.44,29.87,319.88,578388
+MLB All-Star Game (SportsIndex- Events: Satisfaction),19.07%,1,4,5,7.31%,1464,20021,25837,1.11,11.75,260.76,253751
+Golden Globe Awards (SportsIndex- Events: Satisfaction),21.91%,1,4,5,8.43%,1683,19965,25827,1.12,13.48,259.90,291556
+MLB World Series (SportsIndex- Events: Satisfaction),40.97%,2,4,5,16.17%,3227,19959,25855,1.26,24.80,253.38,545307
+Emmy Awards (SportsIndex- Events: Satisfaction),21.91%,1,4,5,9.35%,1870,20006,25853,1.08,12.56,234.38,291556
+Ringling Brothers Barnum and Bailey (SportsIndex- Events: Satisfaction),15.57%,1,4,5,7.41%,1487,20058,25863,1.01,8.16,210.06,207229
+Grammy Awards (SportsIndex- Events: Satisfaction),21.91%,1,4,5,12.12%,2429,20037,25855,0.94,9.78,180.69,291556
+NBA Finals (SportsIndex- Events: Satisfaction),21.91%,1,4,5,12.39%,2482,20033,25884,0.93,9.52,176.84,291556
+NCAA Basketball 'March Madness' Tournament (SportsIndex- Events: Satisfaction),21.91%,1,4,5,12.42%,2487,20019,25874,0.93,9.48,176.32,291556
+"Academy Awards (""Oscars"") (SportsIndex- Events: Satisfaction)",21.91%,1,4,5,13.60%,2719,19991,25836,0.87,8.31,161.08,291556
+NFL Super Bowl (SportsIndex- Events: Satisfaction),19.07%,1,4,5,28.13%,5622,19982,25851,0.09,-9.07,67.77,253751
+Daytona 500 (NASCAR) (SportsIndex- Events: Satisfaction),0.00%,0,4,5,7.88%,1582,20072,25894,0.57,-7.88,0.00,0
+ESPY Awards (SportsIndex- Events: Satisfaction),0.00%,0,4,5,2.01%,403,20046,25900,0.92,-2.01,0.00,0
+Indianapolis 500 (Indycar) (SportsIndex- Events: Satisfaction),0.00%,0,4,5,6.36%,1270,19958,25838,0.66,-6.36,0.00,0
+Masters Tournament (golf) (SportsIndex- Events: Satisfaction),0.00%,0,3,4,7.11%,1426,20049,25866,0.66,-7.11,0.00,0
+MLB Draft (SportsIndex- Events: Satisfaction),0.00%,0,4,5,1.60%,320,19977,25842,0.94,-1.60,0.00,0
+MLS Cup (SportsIndex- Events: Satisfaction),0.00%,0,3,4,3.00%,603,20071,25903,0.87,-3.00,0.00,0
+NBA All-Star Game (SportsIndex- Events: Satisfaction),0.00%,0,4,5,5.10%,1021,20014,25837,0.73,-5.10,0.00,0
+NBA Draft (SportsIndex- Events: Satisfaction),0.00%,0,3,4,4.17%,831,19956,25871,0.78,-4.17,0.00,0
+NFL Combine (SportsIndex- Events: Satisfaction),0.00%,0,4,5,3.05%,612,20058,25877,0.86,-3.05,0.00,0
+NFL Draft (SportsIndex- Events: Satisfaction),0.00%,0,4,5,7.72%,1549,20057,25889,0.58,-7.72,0.00,0
+NFL Honors (award show) (SportsIndex- Events: Satisfaction),0.00%,0,4,5,1.62%,324,20048,25897,0.94,-1.62,0.00,0
+NFL Pro Bowl Games (SportsIndex- Events: Satisfaction),0.00%,0,4,5,4.68%,937,20041,25934,0.76,-4.68,0.00,0
+NFL Training Camp (SportsIndex- Events: Satisfaction),0.00%,0,4,5,2.99%,598,20018,25922,0.86,-2.99,0.00,0
+WWE WrestleMania (SportsIndex- Events: Satisfaction),0.00%,0,4,5,8.48%,1699,20034,25885,0.54,-8.48,0.00,0
+
+"Online Brands: Recommend (last 90 days): Positive, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following online brands would you RECOMMEND to a friend or colleague?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Seamless (Online Brands: Recommend (last 90 days)),30.85%,0,2,3,2.12%,151,7145,7719,1.38,28.73,1457.94,410552
+Vistaprint (Online Brands: Recommend (last 90 days)),47.15%,0,1,2,11.77%,835,7094,7688,1.05,35.38,400.58,627529
+Bluesky (Online Brands: Recommend (last 90 days)),27.73%,1,3,4,7.90%,525,6649,7224,1.20,19.83,350.92,369091
+Yelp (Online Brands: Recommend (last 90 days)),23.54%,1,3,4,9.52%,644,6765,7303,1.04,14.02,247.30,313303
+Dropbox (Online Brands: Recommend (last 90 days)),22.41%,1,4,5,9.15%,613,6698,7265,1.11,13.26,244.96,298218
+Etsy (Online Brands: Recommend (last 90 days)),65.42%,1,2,3,32.41%,2318,7151,7713,0.85,33.01,201.85,870737
+Reddit (Online Brands: Recommend (last 90 days)),27.95%,1,3,4,15.34%,1034,6740,7294,0.90,12.61,182.23,371948
+Instagram (Online Brands: Recommend (last 90 days)),46.12%,1,3,4,27.17%,1828,6729,7256,0.82,18.95,169.77,613813
+Google Docs (Online Brands: Recommend (last 90 days)),35.62%,1,4,5,22.06%,1482,6720,7252,0.85,13.56,161.48,474012
+iMessage (Online Brands: Recommend (last 90 days)),25.55%,1,3,4,17.23%,1127,6540,7198,0.78,8.32,148.31,340010
+Google Chrome (Online Brands: Recommend (last 90 days)),44.08%,1,3,4,36.17%,2453,6781,7293,0.41,7.91,121.86,586663
+Zillow (Online Brands: Recommend (last 90 days)),30.85%,0,2,3,26.64%,1870,7022,7680,0.52,4.21,115.81,410552
+Google Maps (Online Brands: Recommend (last 90 days)),44.08%,1,3,4,43.36%,2906,6703,7215,0.13,0.72,101.66,586663
+Google Search (Online Brands: Recommend (last 90 days)),35.62%,1,4,5,37.30%,2492,6681,7255,0.16,-1.69,95.47,474012
+Google Photos (Online Brands: Recommend (last 90 days)),23.54%,1,3,4,25.44%,1718,6754,7199,0.37,-1.90,92.53,313303
+TikTok (Online Brands: Recommend (last 90 days)),19.82%,1,4,5,22.81%,1523,6677,7231,0.38,-2.99,86.90,263824
+Amazon Prime (Online Brands: Recommend (last 90 days)),42.15%,1,1,2,53.71%,3261,6071,6454,-0.20,-11.56,78.47,560971
+Pinterest (Online Brands: Recommend (last 90 days)),15.79%,1,4,5,26.54%,1762,6638,7213,0.08,-10.75,59.50,210188
+Google (Online Brands: Recommend (last 90 days)),23.54%,1,3,4,45.58%,3027,6642,7190,-0.48,-22.04,51.64,313303
+YouTube (Online Brands: Recommend (last 90 days)),25.55%,1,3,4,51.00%,3417,6700,7189,-0.63,-25.45,50.09,340010
+23andMe (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,5.17%,310,6002,6463,0.76,-5.17,0.00,0
+A Place for Mom (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,5.04%,339,6730,7235,0.79,-5.04,0.00,0
+AliExpress (Online Brands: Recommend (last 90 days)),0.00%,0,0,1,9.58%,679,7086,7707,0.62,-9.58,0.00,0
+Amazon (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,65.56%,4625,7055,7702,-0.99,-65.56,0.00,0
+Amazon Music (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,21.69%,1326,6111,6491,0.30,-21.69,0.00,0
+Ancestry (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,14.18%,864,6093,6436,0.48,-14.18,0.00,0
+Android Message (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,14.53%,971,6680,7249,0.21,-14.53,0.00,0
+Apple Music (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,21.71%,1307,6020,6430,0.35,-21.71,0.00,0
+Apple News (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,9.63%,584,6068,6470,0.62,-9.63,0.00,0
+AutoTrader.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,9.76%,691,7086,7667,0.69,-9.76,0.00,0
+AXS (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,2.67%,188,7036,7665,0.97,-2.67,0.00,0
+Barstool Sports (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,3.59%,240,6669,7287,0.84,-3.59,0.00,0
+Bing (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,8.93%,597,6688,7251,0.53,-8.93,0.00,0
+Bloomberg.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,7.96%,487,6118,6455,0.63,-7.96,0.00,0
+Blue Apron (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,6.03%,367,6091,6484,0.73,-6.03,0.00,0
+Bumble (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,3.35%,201,6002,6451,0.82,-3.35,0.00,0
+Calm (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,8.74%,522,5980,6418,0.65,-8.74,0.00,0
+CarGurus (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,5.80%,411,7098,7722,0.85,-5.80,0.00,0
+CarMax (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,15.84%,1127,7115,7697,0.51,-15.84,0.00,0
+Cars.com (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,10.03%,714,7120,7759,0.69,-10.03,0.00,0
+Craigslist (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,13.98%,973,6958,7645,0.55,-13.98,0.00,0
+Discord (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,11.98%,804,6706,7237,0.35,-11.98,0.00,0
+DocuSign (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,16.11%,988,6137,6447,0.42,-16.11,0.00,0
+DoorDash (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,25.12%,1803,7178,7735,0.10,-25.12,0.00,0
+eBay (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,38.16%,2716,7118,7750,-0.40,-38.16,0.00,0
+Economist.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,4.23%,259,6127,6464,0.66,-4.23,0.00,0
+Edmunds (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,5.35%,382,7144,7756,0.83,-5.35,0.00,0
+Eventbrite (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,7.17%,504,7030,7681,0.80,-7.17,0.00,0
+Facebook (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,35.27%,2347,6655,7186,-1.00,-35.27,0.00,0
+Financialtimes.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,3.13%,187,5972,6446,0.82,-3.13,0.00,0
+Glassdoor (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,5.34%,358,6700,7312,0.76,-5.34,0.00,0
+GoDaddy (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,7.10%,435,6127,6507,0.70,-7.10,0.00,0
+GoodRx (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,27.31%,1665,6097,6488,0.24,-27.31,0.00,0
+Groupon (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,14.74%,1040,7055,7698,0.50,-14.74,0.00,0
+Grubhub (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,10.28%,730,7106,7736,0.68,-10.28,0.00,0
+Headspace (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,4.08%,248,6068,6444,0.66,-4.08,0.00,0
+HelloFresh (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,11.82%,714,6041,6519,0.56,-11.82,0.00,0
+Hinge (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,2.35%,143,6109,6458,0.85,-2.35,0.00,0
+Home Chef (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,5.64%,346,6135,6550,0.75,-5.64,0.00,0
+Homes.com (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,8.61%,611,7091,7725,0.74,-8.61,0.00,0
+iHeartRadio (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,16.96%,1043,6154,6480,0.40,-16.96,0.00,0
+IMDb (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,15.27%,929,6082,6427,0.45,-15.27,0.00,0
+Indeed (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,20.21%,1342,6641,7265,0.13,-20.21,0.00,0
+Insider.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,2.51%,152,6068,6423,0.84,-2.51,0.00,0
+Instacart (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,17.24%,1235,7164,7780,0.41,-17.24,0.00,0
+LegalShield (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,2.93%,177,6021,6443,0.74,-2.93,0.00,0
+LegalZoom (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,5.80%,348,6002,6463,0.74,-5.80,0.00,0
+LinkedIn (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,20.86%,1379,6611,7181,-0.16,-20.86,0.00,0
+Live Nation (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,4.64%,330,7105,7708,0.85,-4.64,0.00,0
+Match.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,4.17%,256,6143,6529,0.71,-4.17,0.00,0
+MotorTrend (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,6.55%,463,7063,7739,0.82,-6.55,0.00,0
+MyHeritage (Online Brands: Recommend (last 90 days)),0.00%,0,0,0,3.19%,66,2075,2133,0.00,-3.19,0.00,-
+Neighbors by Ring (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,4.47%,303,6787,7250,0.82,-4.47,0.00,0
+nytimes.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,11.45%,689,6015,6486,0.56,-11.45,0.00,0
+OK Cupid (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,2.21%,133,6008,6474,0.70,-2.21,0.00,0
+Pandora (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,23.43%,1430,6104,6541,0.32,-23.43,0.00,0
+Postmates (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,4.41%,312,7087,7718,0.90,-4.41,0.00,0
+Rakuten (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,9.79%,688,7026,7646,0.68,-9.79,0.00,0
+Realtor.com (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,13.44%,954,7100,7720,0.55,-13.44,0.00,0
+Redfin (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,5.32%,379,7121,7724,0.87,-5.32,0.00,0
+Rocket Lawyer (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,2.74%,166,6082,6504,0.69,-2.74,0.00,0
+Rover (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,3.35%,237,7086,7734,0.94,-3.35,0.00,0
+SeatGeek (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,4.76%,336,7057,7742,0.89,-4.76,0.00,0
+Shop App (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,5.38%,63,1168,1238,0.69,-5.38,0.00,0
+Shopify (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,11.13%,684,6145,6514,0.58,-11.13,0.00,0
+Snapchat (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,14.07%,929,6606,7255,0.23,-14.07,0.00,0
+Spotify (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,30.14%,1840,6105,6490,0.12,-30.14,0.00,0
+Squarespace (Online Brands: Recommend (last 90 days)),0.00%,0,0,0,3.57%,216,6065,6528,0.00,-3.57,0.00,-
+StubHub (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,6.65%,470,7070,7696,0.77,-6.65,0.00,0
+Telegram (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,10.91%,731,6704,7222,0.50,-10.91,0.00,0
+Temu (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,17.53%,1235,7049,7740,0.40,-17.53,0.00,0
+Threads (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,8.14%,546,6701,7271,0.58,-8.14,0.00,0
+Thumbtack (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,2.52%,178,7081,7779,0.98,-2.52,0.00,0
+Ticketmaster (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,14.12%,1011,7158,7727,0.53,-14.12,0.00,0
+Tinder (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,4.08%,248,6071,6506,0.79,-4.08,0.00,0
+Twitch (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,7.08%,474,6703,7222,0.69,-7.08,0.00,0
+Uber Eats (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,20.28%,1445,7123,7642,0.29,-20.28,0.00,0
+VividSeats (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,3.24%,229,7073,7720,0.88,-3.24,0.00,0
+Walmart Plus (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,25.00%,1533,6131,6503,0.15,-25.00,0.00,0
+washingtonpost.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,9.58%,587,6125,6517,0.62,-9.58,0.00,0
+Web.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,2,2.52%,156,6167,6614,0.84,-2.52,0.00,0
+WhatsApp (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,22.16%,1489,6717,7284,-0.24,-22.16,0.00,0
+Wix.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,2.50%,155,6200,6530,0.70,-2.50,0.00,0
+WSJ.com (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,4.88%,298,6103,6542,0.65,-4.88,0.00,0
+X (formerly Twitter) (Online Brands: Recommend (last 90 days)),0.00%,0,4,5,15.74%,1036,6581,7226,0.13,-15.74,0.00,0
+Yahoo (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,17.69%,1180,6671,7232,0.14,-17.69,0.00,0
+YouTube Kids (Online Brands: Recommend (last 90 days)),0.00%,0,2,3,9.47%,639,6747,7297,0.61,-9.47,0.00,0
+YouTube Music / YouTube Premium (Online Brands: Recommend (last 90 days)),0.00%,0,1,1,32.32%,1951,6034,6401,0.13,-32.32,0.00,0
+ZipRecruiter (Online Brands: Recommend (last 90 days)),0.00%,0,3,4,8.60%,577,6705,7239,0.57,-8.60,0.00,0
+
+"DestinationIndex: Positive Satisfaction, Target: HIlton - Deep Divers, Control: Nationally representative"
+"Of which of the following destinations would you say that you are a ""SATISFIED VISITOR""?"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Iceland (DestinationIndex: Satisfaction),26.29%,2,7,10,2.31%,457,19784,24604,1.99,23.98,1136.79,349871
+Hong Kong (DestinationIndex: Satisfaction),22.66%,2,7,9,2.20%,433,19704,24575,1.77,20.46,1030.58,301552
+Thailand (DestinationIndex: Satisfaction),18.91%,1,6,9,2.41%,477,19750,24542,1.63,16.50,783.61,251689
+Sweden (DestinationIndex: Satisfaction),18.18%,1,7,10,2.52%,498,19767,24534,1.65,15.66,722.17,241996
+Puerto Rico (DestinationIndex: Satisfaction),48.22%,3,6,9,7.97%,1581,19827,24574,2.44,40.24,604.70,641732
+Italy (DestinationIndex: Satisfaction),63.92%,4,6,9,12.11%,2380,19652,24536,2.98,51.81,527.75,850740
+Barcelona (DestinationIndex: Satisfaction),25.45%,2,7,9,5.66%,1119,19769,24538,1.65,19.79,449.78,338750
+South Korea (DestinationIndex: Satisfaction),9.81%,1,7,10,2.24%,443,19745,24587,1.33,7.57,437.35,130541
+Australia (DestinationIndex: Satisfaction),13.88%,1,7,10,3.25%,641,19732,24507,1.42,10.64,427.59,184791
+United Kingdom (UK) (DestinationIndex: Satisfaction),47.24%,3,6,9,13.29%,2625,19756,24573,2.08,33.96,355.50,628788
+France (DestinationIndex: Satisfaction),39.39%,3,6,9,11.45%,2270,19822,24579,1.85,27.93,343.91,524222
+Spain (DestinationIndex: Satisfaction),23.69%,2,7,10,7.93%,1567,19771,24543,1.49,15.77,298.95,315332
+Scotland (DestinationIndex: Satisfaction),14.92%,1,7,10,5.11%,1011,19775,24562,1.32,9.81,291.92,198614
+Canada (DestinationIndex: Satisfaction),74.08%,5,7,10,25.88%,5131,19826,24602,2.93,48.20,286.23,985986
+Las Vegas (DestinationIndex: Satisfaction),62.44%,4,7,9,24.88%,4925,19794,24585,2.12,37.56,250.98,831045
+California (US) (DestinationIndex: Satisfaction),62.81%,4,7,10,32.76%,6485,19793,24568,1.76,30.05,191.71,835997
+Florida (US) (DestinationIndex: Satisfaction),60.93%,4,6,9,37.61%,7429,19751,24560,1.26,23.31,161.98,810904
+New York (US) (DestinationIndex: Satisfaction),49.77%,3,7,9,31.03%,6146,19806,24587,1.13,18.74,160.38,662367
+Germany (DestinationIndex: Satisfaction),13.88%,1,7,10,10.86%,2141,19716,24563,0.84,3.03,127.87,184791
+Mexico (DestinationIndex: Satisfaction),23.69%,2,7,10,19.84%,3924,19779,24562,0.67,3.85,119.42,315332
+Arizona (USA) (DestinationIndex: Satisfaction),18.34%,1,7,10,23.70%,4658,19652,24586,0.11,-5.37,77.35,244041
+Abu Dhabi (DestinationIndex: Satisfaction),0.00%,0,6,9,0.89%,176,19743,24592,1.08,-0.89,0.00,0
+China (DestinationIndex: Satisfaction),0.00%,0,7,9,1.68%,330,19653,24539,0.93,-1.68,0.00,0
+Dubai (United Arab Emirates) (DestinationIndex: Satisfaction),0.00%,0,7,10,1.38%,274,19777,24621,0.97,-1.38,0.00,0
+Malaysia (DestinationIndex: Satisfaction),0.00%,0,7,10,0.72%,142,19849,24627,1.04,-0.72,0.00,0
+Maldives (DestinationIndex: Satisfaction),0.00%,0,7,10,0.39%,77,19828,24575,1.07,-0.39,0.00,0
+Okinawa (DestinationIndex: Satisfaction),0.00%,0,7,9,1.21%,238,19760,24582,0.97,-1.21,0.00,0
+Philippines (DestinationIndex: Satisfaction),0.00%,0,7,10,1.57%,311,19751,24577,0.95,-1.57,0.00,0
+Qatar (DestinationIndex: Satisfaction),0.00%,0,7,9,0.59%,116,19751,24511,1.03,-0.59,0.00,0
+Saudi Arabia (DestinationIndex: Satisfaction),0.00%,0,7,10,0.44%,86,19795,24596,1.06,-0.44,0.00,0
+Singapore (DestinationIndex: Satisfaction),0.00%,0,5,8,1.80%,356,19799,24524,1.00,-1.80,0.00,0
+State of Hawaii (US) (DestinationIndex: Satisfaction),0.00%,0,6,8,16.02%,3162,19742,24577,-0.31,-16.02,0.00,0
+
+"Amusement, Cruise, Travel Agents: Former Customer, Target: HIlton - Deep Divers, Control: Nationally representative"
+Have you ever purchased or used travel or leisure services from any of the following brands?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Universal Epic Universe,14.91%,1,6,9,1.52%,329,21684,26774,1.54,13.39,983.16,198428
+Norwegian Cruise Lines,13.21%,1,6,10,3.66%,795,21720,27101,1.42,9.55,361.08,175788
+Great Wolf Lodge,20.03%,1,3,4,5.79%,1256,21684,26792,1.14,14.24,345.99,266641
+National,19.04%,1,4,7,5.98%,1301,21755,27007,1.35,13.06,318.37,253420
+choicehotels.com,17.86%,1,4,6,5.86%,1278,21805,27012,1.24,12.00,304.69,237699
+Trivago,13.11%,1,5,8,4.62%,1006,21793,26899,1.24,8.49,283.94,174459
+Avis,24.54%,1,3,5,10.48%,2235,21332,26804,1.12,14.06,234.22,326600
+Booking.com,23.47%,1,5,8,11.16%,2429,21758,26909,1.23,12.31,210.25,312358
+Universal Studios Orlando,24.65%,2,7,11,14.06%,3040,21615,26912,1.17,10.58,175.24,328042
+Enterprise,32.45%,2,6,9,21.86%,4676,21393,26905,0.94,10.59,148.46,431915
+Busch Gardens,16.69%,1,8,12,11.37%,2447,21531,26887,0.97,5.33,146.88,222177
+Six Flags,32.36%,2,7,10,22.43%,4843,21588,27064,0.92,9.93,144.25,430685
+Amtrak,21.46%,1,4,6,15.38%,3335,21678,27028,0.85,6.08,139.51,285667
+Disneyland / Disney World,36.92%,2,6,8,27.64%,5927,21438,27057,0.73,9.27,133.54,491321
+Expedia,19.95%,1,7,10,16.10%,3441,21369,26738,0.76,3.84,123.87,265465
+Uber,16.96%,1,7,10,15.93%,3450,21652,26919,0.64,1.03,106.46,225766
+Universal Studios,15.54%,1,5,8,14.98%,3251,21703,26788,0.66,0.56,103.72,206765
+SeaWorld,17.32%,1,5,7,16.86%,3630,21530,26782,0.62,0.45,102.69,230453
+Priceline,11.12%,1,7,11,10.99%,2369,21548,26958,0.73,0.13,101.19,148059
+Alamo,0.00%,0,4,6,7.15%,1555,21736,26972,0.59,-7.15,0.00,0
+Budget,0.00%,0,5,7,14.06%,2980,21203,26870,0.02,-14.06,0.00,0
+Carnival Cruise Line,0.00%,0,3,5,8.07%,1752,21724,27084,0.66,-8.07,0.00,0
+Cedar Point,0.00%,0,4,7,6.09%,1312,21529,26800,0.69,-6.09,0.00,0
+Celebrity Cruises,0.00%,0,6,10,1.77%,383,21686,26845,1.01,-1.77,0.00,0
+CheapTickets,0.00%,0,8,12,3.80%,826,21748,27006,0.74,-3.80,0.00,0
+Costa Cruises,0.00%,0,7,10,0.36%,79,21534,27002,1.09,-0.36,0.00,0
+Crystal Cruise Line,0.00%,0,7,10,0.31%,68,21869,26947,1.10,-0.31,0.00,0
+Cunard,0.00%,0,1,2,0.46%,61,13405,15678,0.97,-0.46,0.00,0
+Disney Cruise Line,0.00%,0,1,1,2.69%,349,13005,15103,0.66,-2.69,0.00,0
+Dollar,0.00%,0,6,8,6.11%,1314,21510,26763,0.58,-6.11,0.00,0
+Greyhound,0.00%,0,5,8,16.26%,3510,21589,26812,-0.16,-16.26,0.00,0
+Hertz,0.00%,0,4,7,16.66%,3603,21621,26992,-0.08,-16.66,0.00,0
+Holland America Line,0.00%,0,6,8,1.79%,387,21613,26905,0.95,-1.79,0.00,0
+Hotels.com,0.00%,0,5,8,12.66%,2726,21523,27009,0.10,-12.66,0.00,0
+Kayak,0.00%,0,3,4,5.50%,1203,21870,27129,0.80,-5.50,0.00,0
+Knott's Berry Farm,0.00%,0,6,9,7.98%,1724,21605,26963,0.37,-7.98,0.00,0
+Lyft,0.00%,0,6,9,10.33%,2248,21761,26916,0.21,-10.33,0.00,0
+MSC Cruises,0.00%,0,4,7,0.66%,145,21838,27031,1.08,-0.66,0.00,0
+Orbitz,0.00%,0,7,10,4.88%,1062,21781,27023,0.67,-4.88,0.00,0
+Princess Cruises,0.00%,0,6,9,2.81%,621,22061,26959,0.86,-2.81,0.00,0
+Regent Cruise Line,0.00%,0,6,9,0.25%,54,21759,26974,1.12,-0.25,0.00,0
+Royal Caribbean Cruises,0.00%,0,5,7,6.34%,1356,21398,26816,0.65,-6.34,0.00,0
+Seabourn,0.00%,0,5,7,0.16%,35,21826,27003,1.11,-0.16,0.00,0
+Silversea Cruise Line,0.00%,0,6,9,0.17%,37,21788,26943,1.11,-0.17,0.00,0
+Thrifty,0.00%,0,4,6,6.00%,1297,21612,26943,0.68,-6.00,0.00,0
+Travelocity,0.00%,0,4,7,9.60%,2068,21543,26809,0.43,-9.60,0.00,0
+Tripadvisor,0.00%,0,3,5,10.03%,2175,21691,26918,0.53,-10.03,0.00,0
+Universal Studios Hollywood,0.00%,0,5,8,10.10%,2200,21788,26811,0.27,-10.10,0.00,0
+Viking Cruises,0.00%,0,5,8,0.77%,168,21748,27049,1.08,-0.77,0.00,0
+Virgin Voyages,0.00%,0,4,6,0.42%,91,21668,26859,1.05,-0.42,0.00,0
+Waymo (a self-driving car service),0.00%,0,5,7,0.49%,104,21524,26769,1.04,-0.49,0.00,0
+Zipcar,0.00%,0,6,8,1.21%,262,21625,26902,0.99,-1.21,0.00,0
+
+"Amusement, Cruise, Travel Agents: Purchase Intent, Target: HIlton - Deep Divers, Control: Nationally representative"
+From which of these would you be most likely to purchase or use?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Universal Studios Hollywood,17.39%,1,5,8,1.81%,393,21788,26811,1.56,15.58,962.89,231407
+choicehotels.com,17.86%,1,4,6,2.97%,647,21805,27012,1.39,14.89,602.01,237699
+Norwegian Cruise Lines,9.46%,1,6,10,1.78%,386,21720,27101,1.42,7.68,531.85,125938
+Disneyland / Disney World,22.48%,1,6,8,5.51%,1181,21438,27057,1.50,16.97,407.97,299243
+Lyft,27.01%,2,6,9,6.85%,1491,21761,26916,1.66,20.15,394.18,359421
+Amtrak,15.26%,1,4,6,7.02%,1523,21678,27028,1.12,8.23,217.17,203043
+Uber,28.08%,2,7,10,13.27%,2872,21652,26919,1.34,14.82,211.70,373751
+Hotels.com,9.53%,0,5,8,6.34%,1364,21523,27009,1.00,3.20,150.46,126903
+Alamo,0.00%,0,4,6,0.56%,121,21736,26972,1.03,-0.56,0.00,0
+Avis,0.00%,0,3,5,1.30%,277,21332,26804,1.01,-1.30,0.00,0
+Booking.com,0.00%,0,5,8,7.97%,1734,21758,26909,0.55,-7.97,0.00,0
+Budget,0.00%,0,5,7,1.92%,406,21203,26870,0.94,-1.92,0.00,0
+Busch Gardens,0.00%,0,8,12,1.28%,276,21531,26887,0.99,-1.28,0.00,0
+Carnival Cruise Line,0.00%,0,3,5,2.33%,507,21724,27084,0.98,-2.33,0.00,0
+Cedar Point,0.00%,0,4,7,1.22%,264,21529,26800,1.05,-1.22,0.00,0
+Celebrity Cruises,0.00%,0,6,10,0.62%,135,21686,26845,1.12,-0.62,0.00,0
+CheapTickets,0.00%,0,8,12,1.10%,239,21748,27006,1.05,-1.10,0.00,0
+Costa Cruises,0.00%,0,7,10,0.08%,18,21534,27002,1.11,-0.08,0.00,0
+Crystal Cruise Line,0.00%,0,7,10,0.08%,18,21869,26947,1.12,-0.08,0.00,0
+Cunard,0.00%,0,1,2,0.14%,18,13405,15678,0.98,-0.14,0.00,0
+Disney Cruise Line,0.00%,0,1,1,1.33%,173,13005,15103,0.69,-1.33,0.00,0
+Dollar,0.00%,0,6,8,0.91%,195,21510,26763,1.02,-0.91,0.00,0
+Enterprise,0.00%,0,6,9,5.63%,1205,21393,26905,0.66,-5.63,0.00,0
+Expedia,0.00%,0,7,10,7.71%,1649,21369,26738,0.36,-7.71,0.00,0
+Great Wolf Lodge,0.00%,0,3,4,2.23%,484,21684,26792,0.91,-2.23,0.00,0
+Greyhound,0.00%,0,5,8,1.72%,371,21589,26812,1.02,-1.72,0.00,0
+Hertz,0.00%,0,4,7,2.30%,498,21621,26992,0.97,-2.30,0.00,0
+Holland America Line,0.00%,0,6,8,0.59%,128,21613,26905,1.05,-0.59,0.00,0
+Kayak,0.00%,0,3,4,1.46%,320,21870,27129,0.99,-1.46,0.00,0
+Knott's Berry Farm,0.00%,0,6,9,1.02%,221,21605,26963,1.02,-1.02,0.00,0
+MSC Cruises,0.00%,0,4,7,0.34%,74,21838,27031,1.11,-0.34,0.00,0
+National,0.00%,0,4,7,0.72%,157,21755,27007,1.11,-0.72,0.00,0
+Orbitz,0.00%,0,7,10,0.66%,144,21781,27023,1.08,-0.66,0.00,0
+Priceline,0.00%,0,7,11,3.65%,786,21548,26958,0.78,-3.65,0.00,0
+Princess Cruises,0.00%,0,6,9,1.15%,255,22061,26959,1.01,-1.15,0.00,0
+Regent Cruise Line,0.00%,0,6,9,0.15%,33,21759,26974,1.13,-0.15,0.00,0
+Royal Caribbean Cruises,0.00%,0,5,7,3.15%,675,21398,26816,0.89,-3.15,0.00,0
+Seabourn,0.00%,0,5,7,0.05%,12,21826,27003,1.12,-0.05,0.00,0
+SeaWorld,0.00%,0,5,7,1.27%,273,21530,26782,1.03,-1.27,0.00,0
+Silversea Cruise Line,0.00%,0,6,9,0.08%,17,21788,26943,1.11,-0.08,0.00,0
+Six Flags,0.00%,0,7,10,2.96%,638,21588,27064,0.84,-2.96,0.00,0
+Thrifty,0.00%,0,4,6,0.33%,71,21612,26943,1.06,-0.33,0.00,0
+Travelocity,0.00%,0,4,7,2.45%,528,21543,26809,0.95,-2.45,0.00,0
+Tripadvisor,0.00%,0,3,5,3.49%,758,21691,26918,0.90,-3.49,0.00,0
+Trivago,0.00%,0,5,8,2.80%,610,21793,26899,0.89,-2.80,0.00,0
+Universal Epic Universe,0.00%,0,6,9,1.16%,252,21684,26774,0.99,-1.16,0.00,0
+Universal Studios,0.00%,0,5,8,2.23%,483,21703,26788,0.96,-2.23,0.00,0
+Universal Studios Orlando,0.00%,0,7,11,2.37%,512,21615,26912,0.91,-2.37,0.00,0
+Viking Cruises,0.00%,0,5,8,1.36%,296,21748,27049,1.03,-1.36,0.00,0
+Virgin Voyages,0.00%,0,4,6,0.39%,84,21668,26859,1.05,-0.39,0.00,0
+Waymo (a self-driving car service),0.00%,0,5,7,0.31%,67,21524,26769,1.05,-0.31,0.00,0
+Zipcar,0.00%,0,6,8,0.17%,37,21625,26902,1.08,-0.17,0.00,0
+
+"Amusement, Cruise, Travel Agents: Aided Brand Awareness (last 60 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following brands have you *ever* heard of? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Silversea Cruise Line,65.72%,1,1,2,7.89%,370,4695,5130,1.39,57.83,832.83,874731
+Zipcar,65.72%,1,1,2,19.41%,895,4610,5028,1.06,46.31,338.56,874731
+Universal Epic Universe,100.00%,1,1,1,30.44%,1445,4746,5059,0.75,69.56,328.53,1330923
+Waymo (a self-driving car service),65.72%,1,1,2,28.62%,1330,4648,5051,0.80,37.11,229.68,874731
+Orbitz,100.00%,1,1,1,56.61%,2667,4711,5138,0.20,43.39,176.65,1330923
+Priceline,100.00%,0,0,1,70.33%,3205,4557,5060,-0.21,29.67,142.20,1330923
+Booking.com,100.00%,0,0,1,75.28%,3501,4651,5103,-0.31,24.72,132.84,1330923
+Hotels.com,100.00%,1,1,2,76.05%,3548,4665,5112,-0.16,23.95,131.49,1330923
+Universal Studios Hollywood,100.00%,1,1,1,77.77%,3713,4775,5117,-0.25,22.23,128.59,1330923
+Disney Cruise Line,100.00%,1,1,1,77.87%,3625,4656,5094,-0.25,22.13,128.42,1330923
+Lyft,100.00%,0,0,1,83.33%,3922,4706,5105,-0.48,16.67,120.00,1330923
+SeaWorld,100.00%,1,1,1,84.08%,3812,4534,4978,-0.38,15.92,118.94,1330923
+Universal Studios,100.00%,0,0,1,86.30%,4068,4714,5032,-0.54,13.70,115.88,1330923
+Great Wolf Lodge,65.72%,1,1,2,57.26%,2601,4543,4970,-0.02,8.46,114.78,874731
+Six Flags,100.00%,1,1,2,88.01%,4147,4713,5095,-0.53,11.99,113.63,1330923
+Uber,100.00%,1,1,2,92.13%,4317,4685,5077,-0.66,7.87,108.54,1330923
+Dollar,34.28%,0,1,2,39.70%,1838,4629,4992,0.11,-5.42,86.34,456192
+Royal Caribbean Cruises,65.72%,1,1,2,77.16%,3520,4562,5014,-0.59,-11.44,85.18,874731
+Thrifty,34.28%,0,1,2,42.09%,1886,4480,4961,0.04,-7.81,81.44,456192
+Trivago,34.28%,0,1,2,70.27%,3334,4745,5081,-0.77,-35.99,48.78,456192
+Alamo,0.00%,0,0,0,55.64%,2643,4749,5123,0.00,-55.64,0.00,-
+Amtrak,0.00%,0,0,0,77.97%,3594,4610,5003,0.00,-77.97,0.00,-
+Avis,0.00%,0,0,1,60.70%,2862,4714,5060,-0.42,-60.70,0.00,0
+Budget,0.00%,0,0,0,66.57%,2948,4428,5014,0.00,-66.57,0.00,-
+Busch Gardens,0.00%,0,1,2,66.90%,3057,4569,5047,-1.18,-66.90,0.00,0
+Carnival Cruise Line,0.00%,0,0,1,75.14%,3514,4677,5067,-0.72,-75.14,0.00,0
+Cedar Point,0.00%,0,1,2,31.77%,1466,4614,5048,-0.09,-31.77,0.00,0
+Celebrity Cruises,0.00%,0,1,2,45.89%,2104,4586,5020,-0.53,-45.89,0.00,0
+CheapTickets,0.00%,0,0,1,28.83%,1332,4620,5115,0.23,-28.83,0.00,0
+choicehotels.com,0.00%,0,0,0,40.34%,1909,4733,5138,0.00,-40.34,0.00,-
+Costa Cruises,0.00%,0,1,2,10.51%,474,4511,5062,0.57,-10.51,0.00,0
+Crystal Cruise Line,0.00%,0,1,2,11.14%,514,4617,5037,0.56,-11.14,0.00,0
+Cunard,0.00%,0,0,1,16.45%,758,4609,5049,0.48,-16.45,0.00,0
+Disneyland / Disney World,0.00%,0,1,2,90.17%,4144,4596,5102,-1.91,-90.17,0.00,0
+Enterprise,0.00%,0,1,1,75.14%,3446,4587,5015,-0.87,-75.14,0.00,0
+Expedia,0.00%,0,1,1,84.65%,3822,4515,5045,-1.07,-84.65,0.00,0
+Greyhound,0.00%,0,0,1,75.81%,3630,4789,5091,-0.73,-75.81,0.00,0
+Hertz,0.00%,0,0,0,79.91%,3564,4459,5003,0.00,-79.91,0.00,-
+Holland America Line,0.00%,0,1,1,32.72%,1551,4740,5099,0.02,-32.72,0.00,0
+Kayak,0.00%,0,0,0,52.66%,2451,4653,5054,0.00,-52.66,0.00,-
+Knott's Berry Farm,0.00%,0,1,1,54.94%,2482,4518,5010,-0.45,-54.94,0.00,0
+MSC Cruises,0.00%,0,0,0,13.70%,631,4605,5067,0.00,-13.70,0.00,-
+National,0.00%,0,0,0,40.44%,1872,4628,5072,0.00,-40.44,0.00,-
+Norwegian Cruise Lines,0.00%,0,0,1,59.15%,2758,4663,5062,-0.39,-59.15,0.00,0
+Princess Cruises,0.00%,0,1,1,56.55%,2666,4714,5034,-0.48,-56.55,0.00,0
+Regent Cruise Line,0.00%,0,0,0,16.32%,756,4631,5109,0.00,-16.32,0.00,-
+Seabourn,0.00%,0,1,1,6.21%,287,4621,5008,0.58,-6.21,0.00,0
+Travelocity,0.00%,0,0,0,69.23%,3157,4560,4962,0.00,-69.23,0.00,-
+Tripadvisor,0.00%,0,1,1,72.24%,3313,4586,4964,-0.81,-72.24,0.00,0
+Universal Studios Orlando,0.00%,0,1,2,80.56%,3754,4660,5051,-1.61,-80.56,0.00,0
+Viking Cruises,0.00%,0,0,1,50.57%,2361,4668,5083,-0.21,-50.57,0.00,0
+Virgin Voyages,0.00%,0,0,1,27.36%,1254,4584,4989,0.26,-27.36,0.00,0
+
+"Amusement, Cruise, Travel Agents: Positive Satisfaction, Target: HIlton - Deep Divers, Control: Nationally representative"
+"Of which of the following brands would you say that you are a ""SATISFIED CUSTOMER""?"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+"Universal Epic Universe (Amusement, Cruise, Travel Agents: Satisfaction)",14.91%,1,6,9,1.97%,427,21684,26774,1.51,12.94,756.31,198428
+"Norwegian Cruise Lines (Amusement, Cruise, Travel Agents: Satisfaction)",22.67%,1,6,10,3.56%,773,21720,27101,1.80,19.11,637.20,301726
+"Disneyland / Disney World (Amusement, Cruise, Travel Agents: Satisfaction)",61.39%,3,6,8,19.12%,4098,21438,27057,2.25,42.28,321.16,817093
+"Busch Gardens (Amusement, Cruise, Travel Agents: Satisfaction)",26.25%,2,8,12,8.32%,1791,21531,26887,1.69,17.93,315.53,349315
+"choicehotels.com (Amusement, Cruise, Travel Agents: Satisfaction)",17.86%,1,4,6,5.94%,1295,21805,27012,1.23,11.92,300.74,237699
+"Trivago (Amusement, Cruise, Travel Agents: Satisfaction)",13.11%,1,5,8,4.39%,956,21793,26899,1.26,8.72,298.88,174459
+"Amtrak (Amusement, Cruise, Travel Agents: Satisfaction)",34.96%,1,4,6,14.40%,3122,21678,27028,1.29,20.56,242.73,465293
+"Lyft (Amusement, Cruise, Travel Agents: Satisfaction)",35.36%,2,6,9,15.65%,3407,21761,26916,1.44,19.70,225.85,470560
+"Uber (Amusement, Cruise, Travel Agents: Satisfaction)",44.19%,3,7,10,25.20%,5456,21652,26919,1.29,19.00,175.39,588193
+"SeaWorld (Amusement, Cruise, Travel Agents: Satisfaction)",17.32%,1,5,7,10.53%,2266,21530,26782,1.00,6.79,164.50,230453
+"Booking.com (Amusement, Cruise, Travel Agents: Satisfaction)",22.20%,1,5,8,13.50%,2938,21758,26909,1.04,8.70,164.39,295442
+"Hertz (Amusement, Cruise, Travel Agents: Satisfaction)",17.95%,1,4,7,11.16%,2413,21621,26992,0.99,6.79,160.81,238855
+"Budget (Amusement, Cruise, Travel Agents: Satisfaction)",14.14%,1,5,7,9.12%,1933,21203,26870,0.94,5.02,155.05,188154
+"Six Flags (Amusement, Cruise, Travel Agents: Satisfaction)",22.08%,2,7,10,14.80%,3196,21588,27064,0.95,7.28,149.18,293916
+"Universal Studios (Amusement, Cruise, Travel Agents: Satisfaction)",15.54%,1,5,8,11.10%,2409,21703,26788,0.91,4.43,139.94,206765
+"Priceline (Amusement, Cruise, Travel Agents: Satisfaction)",11.12%,1,7,11,8.39%,1807,21548,26958,0.94,2.74,132.64,148059
+"Hotels.com (Amusement, Cruise, Travel Agents: Satisfaction)",9.53%,0,5,8,12.09%,2602,21523,27009,0.60,-2.55,78.87,126903
+"Universal Studios Orlando (Amusement, Cruise, Travel Agents: Satisfaction)",7.85%,1,7,11,11.04%,2386,21615,26912,0.53,-3.19,71.13,104477
+"Enterprise (Amusement, Cruise, Travel Agents: Satisfaction)",9.77%,1,6,9,18.58%,3974,21393,26905,0.13,-8.81,52.57,129979
+"Alamo (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,6,4.15%,901,21736,26972,0.80,-4.15,0.00,0
+"Avis (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,3,5,6.61%,1411,21332,26804,0.71,-6.61,0.00,0
+"Carnival Cruise Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,3,5,5.82%,1265,21724,27084,0.79,-5.82,0.00,0
+"Cedar Point (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,7,5.01%,1079,21529,26800,0.77,-5.01,0.00,0
+"Celebrity Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,10,1.86%,403,21686,26845,1.00,-1.86,0.00,0
+"CheapTickets (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,8,12,2.82%,613,21748,27006,0.85,-2.82,0.00,0
+"Costa Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,7,10,0.33%,70,21534,27002,1.09,-0.33,0.00,0
+"Crystal Cruise Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,7,10,0.38%,82,21869,26947,1.09,-0.38,0.00,0
+"Cunard (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,1,2,0.40%,54,13405,15678,0.97,-0.40,0.00,0
+"Disney Cruise Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,1,1,2.78%,362,13005,15103,0.66,-2.78,0.00,0
+"Dollar (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,8,4.17%,898,21510,26763,0.74,-4.17,0.00,0
+"Expedia (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,7,10,15.13%,3233,21369,26738,-0.38,-15.13,0.00,0
+"Great Wolf Lodge (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,3,4,4.65%,1008,21684,26792,0.79,-4.65,0.00,0
+"Greyhound (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,8,8.43%,1820,21589,26812,0.47,-8.43,0.00,0
+"Holland America Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,8,1.97%,425,21613,26905,0.93,-1.97,0.00,0
+"Kayak (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,3,4,3.99%,872,21870,27129,0.87,-3.99,0.00,0
+"Knott's Berry Farm (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,9,6.08%,1313,21605,26963,0.55,-6.08,0.00,0
+"MSC Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,7,0.82%,180,21838,27031,1.07,-0.82,0.00,0
+"National (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,7,3.91%,852,21755,27007,0.88,-3.91,0.00,0
+"Orbitz (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,7,10,2.77%,604,21781,27023,0.87,-2.77,0.00,0
+"Princess Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,9,2.97%,655,22061,26959,0.84,-2.97,0.00,0
+"Regent Cruise Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,9,0.37%,80,21759,26974,1.11,-0.37,0.00,0
+"Royal Caribbean Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,7,6.38%,1365,21398,26816,0.65,-6.38,0.00,0
+"Seabourn (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,7,0.14%,31,21826,27003,1.11,-0.14,0.00,0
+"Silversea Cruise Line (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,9,0.24%,52,21788,26943,1.10,-0.24,0.00,0
+"Thrifty (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,6,3.28%,708,21612,26943,0.86,-3.28,0.00,0
+"Travelocity (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,7,6.03%,1300,21543,26809,0.69,-6.03,0.00,0
+"Tripadvisor (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,3,5,7.73%,1676,21691,26918,0.66,-7.73,0.00,0
+"Universal Studios Hollywood (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,8,8.12%,1769,21788,26811,0.43,-8.12,0.00,0
+"Viking Cruises (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,8,1.12%,243,21748,27049,1.05,-1.12,0.00,0
+"Virgin Voyages (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,4,6,0.68%,148,21668,26859,1.03,-0.68,0.00,0
+"Waymo (a self-driving car service) (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,5,7,0.82%,176,21524,26769,1.02,-0.82,0.00,0
+"Zipcar (Amusement, Cruise, Travel Agents: Satisfaction)",0.00%,0,6,8,0.97%,210,21625,26902,1.01,-0.97,0.00,0
+
+"Communications, Media, and Technology: Ad Awareness (last 90 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following brands have you seen an advertisement for in the PAST TWO WEEKS?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Oura,26.87%,1,3,4,3.77%,208,5511,6384,1.34,23.10,712.26,357617
+Apple Vision Pro,24.72%,1,3,4,3.98%,218,5478,6454,1.28,20.75,621.67,329049
+Kindle,32.58%,1,2,3,6.70%,364,5431,6354,1.19,25.88,486.09,433638
+Mac,20.38%,1,4,5,7.21%,394,5472,6470,1.12,13.17,282.66,271185
+iPad,26.87%,1,3,4,9.97%,547,5490,6382,1.09,16.90,269.61,357617
+ADT,21.27%,1,4,3,8.36%,592,7077,7969,0.85,12.91,254.36,283083
+McAfee,15.99%,1,5,4,6.66%,485,7284,8038,0.87,9.33,240.08,212816
+Google Pixel,34.98%,1,2,3,15.75%,844,5359,6388,0.92,19.23,222.06,465586
+Amazon Alexa,26.87%,1,3,4,14.68%,820,5584,6466,0.89,12.19,182.99,357617
+Apple Watch,20.38%,1,4,5,16.76%,918,5475,6450,0.66,3.62,121.58,271185
+Apple,30.12%,1,2,3,31.91%,1784,5592,6483,0.26,-1.79,94.39,400808
+iPhone,24.85%,1,3,4,41.49%,2322,5595,6486,-0.30,-16.65,59.88,330685
+T-Mobile,18.56%,1,4,3,46.47%,3325,7155,8022,-0.69,-27.91,39.93,246959
+Acer,0.00%,0,3,4,2.12%,116,5463,6392,0.89,-2.12,0.00,0
+Adobe,0.00%,0,5,4,6.46%,465,7190,7997,0.44,-6.46,0.00,0
+Alienware,0.00%,0,3,4,1.34%,73,5424,6423,0.90,-1.34,0.00,0
+Amazon Key,0.00%,0,4,3,3.43%,247,7208,8015,0.59,-3.43,0.00,0
+Android,0.00%,0,3,4,16.27%,885,5440,6418,0.15,-16.27,0.00,0
+Apple Siri,0.00%,0,2,2,5.22%,287,5490,6452,0.73,-5.22,0.00,0
+AT&T,0.00%,0,4,3,33.02%,2348,7110,7966,-0.82,-33.02,0.00,0
+Audible,0.00%,0,3,4,9.25%,519,5611,6498,0.50,-9.25,0.00,0
+Boost Mobile,0.00%,0,4,3,12.93%,933,7215,8078,0.14,-12.93,0.00,0
+Canon,0.00%,0,3,4,3.07%,165,5385,6383,0.81,-3.07,0.00,0
+Canva,0.00%,0,5,4,7.91%,566,7155,7965,0.36,-7.91,0.00,0
+Casio,0.00%,0,2,2,1.32%,72,5478,6495,0.81,-1.32,0.00,0
+ChatGPT,0.00%,0,2,3,13.77%,761,5525,6517,0.37,-13.77,0.00,0
+Chromebook,0.00%,0,2,3,7.00%,386,5520,6384,0.65,-7.00,0.00,0
+Claude,0.00%,0,1,1,1.68%,92,5483,6324,0.68,-1.68,0.00,0
+Consumer Cellular,0.00%,0,4,3,20.68%,1494,7227,8003,-0.22,-20.68,0.00,0
+Cricket Wireless,0.00%,0,5,4,12.41%,908,7316,8097,0.10,-12.41,0.00,0
+Cricut,0.00%,0,1,2,2.75%,151,5485,6428,0.82,-2.75,0.00,0
+DeepSeek,0.00%,0,3,4,1.27%,71,5578,6445,0.91,-1.27,0.00,0
+Dell,0.00%,0,3,4,8.35%,468,5600,6465,0.58,-8.35,0.00,0
+Fitbit,0.00%,0,3,4,6.07%,340,5606,6494,0.66,-6.07,0.00,0
+Google Assistant,0.00%,0,3,4,9.10%,496,5456,6472,0.50,-9.10,0.00,0
+Google Fi,0.00%,0,3,3,2.94%,212,7223,7983,0.77,-2.94,0.00,0
+Google Meet,0.00%,0,5,4,3.04%,220,7217,8031,0.64,-3.04,0.00,0
+Google Nest,0.00%,0,5,4,2.64%,189,7152,7954,0.66,-2.64,0.00,0
+Grok,0.00%,0,2,3,4.29%,240,5595,6456,0.75,-4.29,0.00,0
+HP,0.00%,0,3,4,8.07%,448,5554,6400,0.57,-8.07,0.00,0
+IBM,0.00%,0,2,3,2.41%,131,5460,6462,0.83,-2.41,0.00,0
+Intel,0.00%,0,1,2,6.09%,334,5492,6391,0.70,-6.09,0.00,0
+Intuit,0.00%,0,2,2,3.39%,250,7361,8086,0.70,-3.39,0.00,0
+Kodak,0.00%,0,2,3,1.70%,93,5480,6438,0.88,-1.70,0.00,0
+Lenovo,0.00%,0,3,4,4.60%,256,5567,6434,0.73,-4.60,0.00,0
+LG,0.00%,0,1,1,12.78%,691,5409,6416,0.48,-12.78,0.00,0
+Logitech,0.00%,0,2,3,2.40%,133,5532,6409,0.83,-2.40,0.00,0
+Lumen Technologies,0.00%,0,5,4,0.44%,32,7165,7990,0.79,-0.44,0.00,0
+Metro by T-Mobile,0.00%,0,4,3,17.46%,1253,7175,7991,-0.08,-17.46,0.00,0
+Microsoft,0.00%,0,3,2,12.19%,890,7304,8068,0.28,-12.19,0.00,0
+Mint Mobile,0.00%,0,5,4,21.08%,1509,7158,8039,-0.40,-21.08,0.00,0
+Monday.com,0.00%,0,4,3,0.90%,65,7205,7984,0.70,-0.90,0.00,0
+Motorola,0.00%,0,2,2,5.65%,311,5513,6366,0.68,-5.65,0.00,0
+Nikon,0.00%,0,4,5,1.46%,80,5441,6378,0.91,-1.46,0.00,0
+Nintendo,0.00%,0,4,5,13.85%,769,5553,6458,0.17,-13.85,0.00,0
+Nokia,0.00%,0,3,4,2.52%,138,5497,6388,0.84,-2.52,0.00,0
+Nvidia,0.00%,0,5,4,3.48%,251,7217,7983,0.61,-3.48,0.00,0
+Olympus,0.00%,0,3,4,0.74%,41,5517,6414,0.93,-0.74,0.00,0
+OpenAI,0.00%,0,2,3,7.54%,418,5541,6473,0.62,-7.54,0.00,0
+Panasonic,0.00%,0,2,3,3.20%,174,5438,6386,0.83,-3.20,0.00,0
+Razer,0.00%,0,0,0,2.16%,117,5418,6376,0.00,-2.16,0.00,-
+Ring,0.00%,0,3,3,14.84%,1075,7242,7985,0.26,-14.84,0.00,0
+RingCentral,0.00%,0,3,2,1.14%,82,7161,7994,0.66,-1.14,0.00,0
+Samsung,0.00%,0,2,3,27.36%,1493,5455,6396,-0.15,-27.36,0.00,0
+SimpliSafe,0.00%,0,5,4,9.62%,693,7196,8030,0.26,-9.62,0.00,0
+SiriusXM,0.00%,0,3,3,9.90%,711,7187,7978,0.47,-9.90,0.00,0
+Skype,0.00%,0,5,4,2.05%,148,7184,8006,0.69,-2.05,0.00,0
+Smartsheet,0.00%,0,4,3,1.05%,75,7189,8006,0.71,-1.05,0.00,0
+Snapdragon,0.00%,0,4,3,1.42%,102,7143,8000,0.72,-1.42,0.00,0
+Sony,0.00%,0,4,5,8.50%,467,5495,6447,0.49,-8.50,0.00,0
+Straight Talk Wireless,0.00%,0,5,4,14.31%,1006,7031,7932,-0.01,-14.31,0.00,0
+Toshiba,0.00%,0,4,5,2.30%,124,5416,6415,0.86,-2.30,0.00,0
+Total Wireless,0.00%,0,3,3,5.56%,401,7212,7983,0.66,-5.56,0.00,0
+Tracfone,0.00%,0,5,4,3.85%,276,7154,8011,0.59,-3.85,0.00,0
+US Cellular,0.00%,0,4,3,9.44%,680,7198,7995,0.36,-9.44,0.00,0
+Verizon Wireless,0.00%,0,4,3,36.16%,2590,7163,7954,-0.87,-36.16,0.00,0
+Visible,0.00%,0,2,2,2.83%,202,7141,7949,0.80,-2.83,0.00,0
+Whoop,0.00%,0,4,2,0.41%,29,7207,7976,0.65,-0.41,0.00,0
+Windows,0.00%,0,4,3,7.16%,522,7292,8050,0.42,-7.16,0.00,0
+Xfinity Mobile,0.00%,0,5,4,13.99%,1005,7182,8002,0.01,-13.99,0.00,0
+Zoom,0.00%,0,3,3,4.53%,324,7155,8020,0.70,-4.53,0.00,0
+
+"Retail: Apparel, footwear and accessories I: Reputation (last 28 days): Positive, Target: HIlton - Deep Divers, Control: Nationally representative"
+Imagine that you were looking for a job (or advising a friend looking for a job). Which of the following companies would you be PROUD TO WORK FOR? Imagine you (or your friend) were applying for the same sort of role at the following companies that you currently have or would apply for.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+"Nautica (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",64.23%,1,2,2,14.45%,304,2104,2191,1.22,49.78,444.50,854810
+"lululemon (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",50.21%,0,1,2,13.78%,290,2106,2201,1.03,36.43,364.46,668262
+"Patagonia (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",50.21%,0,1,2,16.86%,353,2094,2187,0.94,33.35,297.74,668262
+"UGG (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",50.21%,0,1,2,18.44%,402,2181,2244,0.89,31.77,272.24,668262
+"Nike (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",100.00%,0,0,1,43.26%,886,2049,2212,0.34,56.74,231.19,1330923
+"Polo Ralph Lauren (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",28.52%,1,2,3,26.12%,553,2115,2162,0.43,2.40,109.19,379596
+"adidas (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,36.50%,746,2044,2153,0.00,-36.50,0.00,-
+"Allbirds (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,2.90%,58,2017,2239,0.84,-2.90,0.00,0
+"Anne Klein (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,11.74%,244,2077,2215,0.60,-11.74,0.00,0
+"Asics (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,13.09%,264,2017,2220,0.55,-13.09,0.00,0
+"Athleta (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,5.97%,125,2091,2217,0.66,-5.97,0.00,0
+"Athleta Girl (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,3.24%,68,2100,2198,0.75,-3.24,0.00,0
+"Birkenstock (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,16.99%,342,2015,2208,0.47,-16.99,0.00,0
+"Bombas (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,15.94%,320,2008,2210,0.27,-15.94,0.00,0
+"Brooks Running (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,9.37%,197,2099,2260,0.54,-9.37,0.00,0
+"Calvin Klein (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,28.91%,595,2057,2188,-0.12,-28.91,0.00,0
+"Champion (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,18.39%,387,2103,2255,0.45,-18.39,0.00,0
+"Cole Haan (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,7.22%,145,2015,2164,0.78,-7.22,0.00,0
+"Columbia (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,22.36%,470,2103,2193,-0.11,-22.36,0.00,0
+"Converse (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,25.92%,565,2180,2243,0.29,-25.92,0.00,0
+"Crocs (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,24.96%,489,1958,2140,-0.11,-24.96,0.00,0
+"Dr. Scholl's shoes (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,16.95%,337,1987,2197,0.23,-16.95,0.00,0
+"Duluth Trading Co. (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,19.72%,404,2049,2242,0.36,-19.72,0.00,0
+"Eddie Bauer (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,19.85%,425,2142,2244,0.35,-19.85,0.00,0
+"Fabletics (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,9.32%,190,2034,2192,0.57,-9.32,0.00,0
+"Fila (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,13.58%,291,2141,2236,0.33,-13.58,0.00,0
+"Fruit of the Loom (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,25.24%,527,2087,2202,0.00,-25.24,0.00,0
+"Hanes (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,22.35%,469,2098,2180,0.00,-22.35,0.00,0
+"HeyDude Shoes (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,10.85%,238,2188,2224,0.52,-10.85,0.00,0
+"Hoka (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,14.02%,289,2062,2187,0.40,-14.02,0.00,0
+"Jockey (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,11.28%,237,2100,2199,0.49,-11.28,0.00,0
+"Keds (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,10.64%,217,2038,2171,0.60,-10.64,0.00,0
+"Koolaburra by UGG (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,3.54%,70,1985,2199,0.83,-3.54,0.00,0
+"Lee (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,16.16%,332,2054,2186,0.46,-16.16,0.00,0
+"Levi's (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,36.63%,740,2020,2144,0.00,-36.63,0.00,-
+"LifeStride (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,3.46%,76,2200,2333,0.79,-3.46,0.00,0
+"Marmot (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,3.10%,65,2096,2236,0.00,-3.10,0.00,-
+"Merrell (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,8.90%,191,2147,2196,0.68,-8.90,0.00,0
+"Naturalizer (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,7.34%,151,2050,2137,0.66,-7.34,0.00,0
+"New Balance (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,31.63%,655,2070,2189,0.17,-31.63,0.00,0
+"Nine West (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,12.16%,250,2055,2187,0.00,-12.16,0.00,-
+"Oakley (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,18.92%,406,2146,2254,0.37,-18.92,0.00,0
+"Puma (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,27.29%,573,2099,2173,-0.35,-27.29,0.00,0
+"Reebok (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,26.29%,563,2139,2177,0.28,-26.29,0.00,0
+"Rockport (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,9.77%,208,2130,2285,0.56,-9.77,0.00,0
+"Ryka (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,3,4,3.30%,66,2013,2167,0.84,-3.30,0.00,0
+"Sam Edelman (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,3.75%,80,2130,2192,0.89,-3.75,0.00,0
+"Skechers (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,32.60%,666,2042,2246,0.00,-32.60,0.00,-
+"Sorel (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,4.80%,105,2180,2207,0.66,-4.80,0.00,0
+"Spanx (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,9.90%,200,2026,2168,0.65,-9.90,0.00,0
+"Speedo (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,9.69%,203,2091,2194,0.51,-9.69,0.00,0
+"Steve Madden (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,2,13.88%,288,2072,2237,0.53,-13.88,0.00,0
+"STRAUSS (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,1,7.21%,155,2146,2240,0.67,-7.21,0.00,0
+"Teva (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,6.32%,129,2041,2207,0.65,-6.32,0.00,0
+"The North Face (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,2,29.73%,587,1973,2168,-0.10,-29.73,0.00,0
+"Timberland (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,24.66%,524,2126,2153,0.13,-24.66,0.00,0
+"Tommy John (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,6.99%,145,2068,2200,0.51,-6.99,0.00,0
+"TOMS (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,10.91%,226,2076,2217,0.51,-10.91,0.00,0
+"Under Armour (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,0,0,29.65%,620,2091,2251,0.00,-29.65,0.00,-
+"Vans (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,1,1,24.77%,501,2024,2159,0.25,-24.77,0.00,0
+"Wrangler (Retail: Apparel, footwear and accessories I: Reputation (last 28 days))",0.00%,0,2,3,26.61%,521,1959,2154,-0.17,-26.61,0.00,0
+
+"Copa Libertadores  - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the Copa Libertadores (Soccer)?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+A little bit interested,27.49%,23,83,93,8.16%,33512,410680,411511,4.26,19.33,336.88,365871
+This is one of my TOP interests,2.13%,2,83,93,1.80%,7385,410680,411511,0.79,0.33,118.61,28387
+Don't know,0.00%,0,83,93,0.00%,0,410680,411511,1.05,0.00,100.00,0
+Not Asked,0.00%,0,83,93,0.00%,0,410680,411511,1.05,0.00,100.00,0
+Not at all interested,69.51%,58,83,93,85.54%,351309,410680,411511,-3.44,-16.03,81.26,925189
+Somewhat interested,0.86%,1,83,93,4.50%,18474,410680,411511,-1.70,-3.64,19.17,11476
+
+"Wimbledon - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in Wimbledon (Tennis)?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,13.63%,11,83,93,4.09%,16782,410680,411511,2.85,9.54,333.55,181404
+Somewhat interested,15.60%,13,83,93,9.53%,39128,410680,411511,1.79,6.07,163.69,207573
+A little bit interested,16.47%,14,83,93,16.40%,67358,410680,411511,0.22,0.07,100.44,219258
+Not at all interested,54.30%,45,83,93,69.98%,287412,410680,411511,-3.06,-15.68,77.59,722688
+
+"College Football Playoff - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+College Football Playoff (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+A little bit interested,56.02%,2,3,5,17.37%,3563,20515,26548,1.63,38.65,322.54,745554
+Somewhat interested,23.52%,1,3,5,15.97%,3277,20515,26548,0.82,7.54,147.22,312975
+Not at all interested,20.47%,1,3,5,53.97%,11072,20515,26548,-1.09,-33.50,37.92,272393
+This is one of my TOP interests,0.00%,0,3,5,12.69%,2603,20515,26548,0.33,-12.69,0.00,0
+
+"MLB World Series - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+MLB World Series (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Somewhat interested,60.15%,2,3,5,18.70%,3836,20515,26548,1.70,41.45,321.70,800565
+Not at all interested,39.85%,1,3,5,47.45%,9735,20515,26548,-0.17,-7.60,83.97,530358
+A little bit interested,0.00%,0,3,5,18.91%,3879,20515,26548,-0.03,-18.91,0.00,0
+This is one of my TOP interests,0.00%,0,3,5,14.94%,3065,20515,26548,0.20,-14.94,0.00,0
+
+"Music festival genre, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following types of music festivals would you consider going to in the future? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Other,8.94%,2,18,20,2.88%,790,27410,30164,1.34,6.06,309.99,118966
+Reggae,8.87%,2,18,20,4.06%,1113,27410,30164,1.18,4.81,218.44,118013
+Country,12.49%,2,18,20,7.05%,1932,27410,30164,1.11,5.44,177.15,166198
+Jam Band,4.35%,1,18,20,2.48%,681,27410,30164,1.00,1.86,174.95,57849
+Alt/Indie Rock,8.76%,2,18,20,5.74%,1574,27410,30164,0.95,3.02,152.64,116650
+Classic Rock,9.79%,2,18,20,8.97%,2459,27410,30164,0.62,0.82,109.13,130294
+Folk,4.35%,1,18,20,4.21%,1155,27410,30164,0.73,0.13,103.12,57849
+Not asked,76.45%,13,17,19,79.91%,21097,26401,29197,-0.61,-3.46,95.68,1017542
+Jazz,4.35%,1,18,20,6.04%,1656,27410,30164,0.44,-1.70,71.94,57849
+R&B,4.45%,1,18,20,7.39%,2025,27410,30164,0.24,-2.94,60.19,59190
+Multigenre,2.71%,0,18,20,4.83%,1323,27410,30164,0.44,-2.12,56.17,36070
+Hard Rock,2.71%,0,18,20,6.15%,1687,27410,30164,0.21,-3.44,44.04,36070
+Pop,2.73%,0,18,20,8.71%,2387,27410,30164,-0.22,-5.98,31.38,36375
+Hip-Hop/Rap,0.00%,0,18,20,7.98%,2186,27410,30164,-0.62,-7.98,0.00,0
+Electric Dance Music (EDM),0.00%,0,18,20,4.06%,1113,27410,30164,0.18,-4.06,0.00,0
+Latin,0.00%,0,18,20,3.69%,1011,27410,30164,0.26,-3.69,0.00,0
+K-Pop,0.00%,0,18,20,2.91%,798,27410,30164,0.42,-2.91,0.00,0
+None of these,0.00%,0,18,20,0.28%,77,27410,30164,0.96,-0.28,0.00,0
+
+"Other sports - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - Other
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Somewhat interested,22.90%,19,83,93,7.43%,30521,410680,411511,3.66,15.47,308.13,304782
+This is one of my TOP interests,5.43%,5,83,93,4.15%,17051,410680,411511,0.91,1.28,130.88,72322
+A little bit interested,10.71%,9,83,93,11.83%,48595,410680,411511,-0.06,-1.12,90.51,142547
+Not at all interested,60.96%,51,83,93,76.58%,314512,410680,411511,-3.14,-15.63,79.59,811272
+
+"Gambling & Casinos: Consideration (last 60 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+"When you are in the market next to gamble, from which of the following gambling brands would you consider using?"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Mega Millions,100.00%,1,1,1,33.16%,930,2804,3269,0.65,66.84,301.54,1330923
+PowerBall,100.00%,1,1,1,38.09%,1068,2804,3269,0.55,61.91,262.54,1330923
+888sport,0.00%,0,1,1,1.61%,45,2804,3269,0.71,-1.61,0.00,0
+Bally Bet,0.00%,0,1,1,0.86%,24,2804,3269,0.73,-0.86,0.00,0
+Bally's,0.00%,0,1,1,2.07%,58,2804,3269,0.70,-2.07,0.00,0
+bet365,0.00%,0,1,1,4.04%,113,2804,3269,0.66,-4.04,0.00,0
+BetMGM,0.00%,0,1,1,3.42%,96,2804,3269,0.67,-3.42,0.00,0
+Betway,0.00%,0,1,1,1.51%,42,2804,3269,0.71,-1.51,0.00,0
+BoydGaming,0.00%,0,1,1,1.28%,36,2804,3269,0.72,-1.28,0.00,0
+Caesars Palace,0.00%,0,1,1,4.92%,138,2804,3269,0.64,-4.92,0.00,0
+Caesars Sportsbook,0.00%,0,1,1,1.72%,48,2804,3269,0.71,-1.72,0.00,0
+Caesar’s Rewards,0.00%,0,1,1,2.37%,66,2804,3269,0.69,-2.37,0.00,0
+DraftKings,0.00%,0,1,1,7.64%,214,2804,3269,0.58,-7.64,0.00,0
+ESPN BET,0.00%,0,1,1,3.96%,111,2804,3269,0.66,-3.96,0.00,0
+FanDuel,0.00%,0,1,1,6.66%,187,2804,3269,0.60,-6.66,0.00,0
+Golden Nugget,0.00%,0,1,1,2.93%,82,2804,3269,0.68,-2.93,0.00,0
+Harrah's,0.00%,0,1,1,3.65%,102,2804,3269,0.67,-3.65,0.00,0
+Lucky for Life,0.00%,0,1,1,5.17%,145,2804,3269,0.64,-5.17,0.00,0
+MGM Grand,0.00%,0,1,1,4.73%,133,2804,3269,0.64,-4.73,0.00,0
+MGM Rewards,0.00%,0,1,1,3.12%,87,2804,3269,0.68,-3.12,0.00,0
+Park MGM,0.00%,0,1,1,0.86%,24,2804,3269,0.73,-0.86,0.00,0
+PointsBet,0.00%,0,1,1,0.84%,24,2804,3269,0.73,-0.84,0.00,0
+Pokerstars,0.00%,0,1,1,2.56%,72,2804,3269,0.69,-2.56,0.00,0
+PrizePicks,0.00%,0,1,1,2.85%,80,2804,3269,0.68,-2.85,0.00,0
+Winstar World Casino,0.00%,0,1,1,1.27%,36,2804,3269,0.72,-1.27,0.00,0
+WynnBET,0.00%,0,1,1,1.21%,34,2804,3269,0.72,-1.21,0.00,0
+
+"Wintertime activities, Target: HIlton - Deep Divers, Control: Nationally representative"
+"What, if any, of the following activities do you prefer to do in Winter? Please select all that apply."
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Play sports,36.96%,4,11,15,12.34%,3050,24716,26076,2.11,24.62,299.46,491853
+Go to sporting events,48.83%,6,11,15,17.03%,4209,24716,26076,2.48,31.80,286.78,649916
+Other,16.73%,2,11,15,9.87%,2440,24716,26076,1.11,6.86,169.47,222632
+Visit friends and family,81.14%,9,11,15,49.48%,12231,24716,26076,2.46,31.65,163.96,1079849
+Go to museums,46.81%,5,11,15,29.29%,7238,24716,26076,1.40,17.52,159.83,622977
+Go out to a bar,37.71%,4,11,15,25.11%,6207,24716,26076,1.14,12.59,150.15,501857
+None of these,13.99%,2,11,15,9.35%,2312,24716,26076,0.98,4.64,149.59,186250
+Go to the movie theater,62.31%,7,11,15,45.15%,11161,24716,26076,1.21,17.15,137.99,829290
+Attend indoor performances,61.40%,7,11,15,45.62%,11275,24716,26076,1.11,15.78,134.59,817130
+Go to comedy shows,31.24%,4,11,15,23.89%,5905,24716,26076,0.83,7.35,130.76,415761
+Go to theatre shows,35.20%,4,11,15,26.98%,6669,24716,26076,0.83,8.21,130.44,468431
+Go to other people's dinners/parties,50.40%,6,11,15,39.20%,9689,24716,26076,0.86,11.19,128.55,670742
+Host a dinner/party,38.92%,4,11,15,34.03%,8411,24716,26076,0.52,4.89,114.37,518010
+Go shopping,44.42%,5,11,15,46.35%,11457,24716,26076,-0.09,-1.93,95.84,591258
+Go walking,30.80%,3,11,15,32.93%,8139,24716,26076,0.06,-2.13,93.53,409906
+Work out,36.49%,4,11,15,39.44%,9747,24716,26076,-0.07,-2.95,92.53,485661
+Go to a concert,22.68%,3,11,15,26.73%,6607,24716,26076,0.00,-4.05,84.85,301881
+Travel,26.21%,3,11,15,31.08%,7682,24716,26076,-0.11,-4.87,84.32,348788
+Try something new,32.37%,4,11,15,39.23%,9695,24716,26076,-0.34,-6.85,82.53,430841
+Go sightseeing,11.31%,1,11,15,23.60%,5834,24716,26076,-0.67,-12.29,47.94,150582
+Attend outdoor performances,0.00%,0,11,15,8.59%,2124,24716,26076,-0.16,-8.59,0.00,0
+Don't know,0.00%,0,11,15,5.24%,1294,24716,26076,0.33,-5.24,0.00,0
+
+"FIFA Football World Cup - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - FIFA Football World Cup
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,22.93%,19,83,93,8.33%,34197,410680,411511,3.46,14.60,275.38,305198
+Somewhat interested,11.14%,9,83,93,9.20%,37770,410680,411511,0.85,1.95,121.15,148296
+A little bit interested,12.85%,11,83,93,12.58%,51682,410680,411511,0.32,0.26,102.08,170974
+Not at all interested,53.08%,44,83,93,69.89%,287030,410680,411511,-3.26,-16.81,75.95,706456
+
+"Statements disagreed with about Travel, Target: HIlton - Deep Divers, Control: Nationally representative"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+I like to come back from vacation having learnt something new,29.41%,4,14,19,11.05%,4230,38278,55179,1.95,18.36,266.19,391478
+I try to keep to a strict budget when I go on vacation,71.01%,10,14,19,27.45%,10510,38284,55188,3.84,43.56,258.67,945073
+I like my vacations to have some form of physical activity,37.48%,5,14,19,21.47%,8221,38286,55175,1.57,16.01,174.55,498831
+I can't get around without my phone,59.15%,6,11,14,36.11%,10138,28075,42566,1.64,23.04,163.79,787194
+I usually wait for last minute deals rather than planning my holiday/vacations or short break in advance,74.33%,12,16,22,45.95%,23250,50596,64835,2.67,28.38,161.76,989324
+"When I go on vacation, I like to go off the beaten track",35.77%,6,16,21,25.20%,9933,39422,56665,1.15,10.57,141.95,476050
+I like to spend my leisure time relaxing,9.35%,2,16,21,7.55%,2979,39479,56727,0.83,1.81,123.97,124493
+"When I go on vacation I only want to eat, drink and lie in the sun",47.75%,7,14,19,40.08%,15866,39589,56741,0.69,7.67,119.14,635460
+Having a phone or tablet makes me feel like I won't miss anything while I'm away,19.11%,2,11,14,16.27%,4568,28073,42568,0.67,2.84,117.47,254401
+I usually go back to the same places on vacation,32.55%,5,16,21,29.69%,11703,39415,56668,0.46,2.86,109.62,433192
+I like being connected to people back home when I'm traveling,16.39%,2,11,14,15.14%,4250,28073,42571,0.59,1.25,108.25,218122
+If I have extra currency from travel left over I try to blow it at the airport/train station/etc. before leaving,62.89%,12,19,26,59.73%,35855,60031,77050,0.20,3.16,105.29,836991
+I like wasting time shopping at airports,70.20%,12,17,23,67.77%,33753,49806,69472,0.03,2.43,103.59,934318
+"I tend to book my vacations  (i.e., more than 3 days) outside of school vacations/breaks",28.51%,5,16,22,28.37%,14342,50553,64787,0.25,0.14,100.51,379508
+"When I’m planning my next vacation, I have at least one destination in mind or already selected",14.41%,2,14,19,15.16%,6004,39589,56747,0.40,-0.75,95.05,191838
+A phone/tablet can improve my traveling experience,7.36%,1,11,14,8.09%,2272,28068,42570,0.63,-0.73,90.93,97951
+I try to shop Duty Free at airports/train stations rather than at the main shops for a better deal,43.84%,8,18,24,51.76%,25435,49140,68902,-0.72,-7.92,84.70,583503
+Technology distracts me from enjoying a good vacation,38.83%,4,11,14,48.82%,13702,28069,42566,-0.63,-9.99,79.54,516776
+I would never think of taking a package holiday/vacations,37.83%,6,16,22,48.70%,24627,50568,64805,-0.92,-10.87,77.68,503514
+"I tend to book my short breaks (i.e., up to 3 days) outside of school vacations/breaks",21.93%,4,16,22,29.86%,15117,50631,64859,-0.52,-7.93,73.45,291860
+You can only ever get to know a country by experiencing its culture,3.43%,0,14,19,8.83%,3382,38277,55176,0.04,-5.41,38.81,45633
+I am passionate about traveling,12.43%,2,13,17,32.99%,13085,39659,56715,-1.68,-20.56,37.68,165461
+I am excited to generally spend more when traveling,12.28%,2,17,23,37.79%,18832,49828,69520,-2.79,-25.51,32.49,163430
+I tend to spend my leisure time on hobbies and activities,4.33%,1,16,20,15.27%,6114,40030,57336,-0.87,-10.94,28.38,57692
+
+"Leisure trips - most preferred, Target: HIlton - Deep Divers, Control: Nationally representative"
+"Which, if any, of the following types of leisure trip do you enjoy taking? Please select all that apply."
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Spa trip/health spa trip,29.58%,5,18,25,11.35%,5700,50239,57511,2.18,18.24,260.74,393704
+Cruise,35.33%,6,18,25,18.59%,9342,50239,57511,1.89,16.73,189.98,470159
+"City breaks (i.e., a short vacation spent in a city)",62.53%,11,18,25,33.04%,16598,50239,57511,2.90,29.49,189.25,832160
+"Event trip (e.g., wedding, birthday, bachelor/bachelorette party, etc.)",34.83%,6,18,25,20.07%,10084,50239,57511,1.69,14.76,173.55,463600
+Multi-country leisure trips (i.e. staying in two or more different areas or countries on one trip),28.61%,5,18,25,17.32%,8704,50239,57511,1.46,11.28,165.12,380731
+"Winter sports (e.g., skiing, snowboarding, etc.)",11.08%,2,18,25,7.31%,3672,50239,57511,1.08,3.77,151.56,147449
+"Shopping vacations (i.e., a vacation mainly for shopping)",22.70%,4,18,25,16.00%,8039,50239,57511,1.08,6.70,141.84,302063
+Beach vacation,72.16%,13,18,25,51.00%,25621,50239,57511,2.06,21.16,141.50,960409
+Other type of leisure trip,16.08%,3,18,25,11.54%,5797,50239,57511,1.00,4.54,139.35,214014
+Leisure trip at a theme park/amusement park,35.98%,6,18,25,26.23%,13177,50239,57511,1.15,9.75,137.18,478875
+"Escorted group tours, coach tours",12.32%,2,18,25,9.43%,4736,50239,57511,0.91,2.89,130.68,163954
+Safari and wildlife,17.90%,3,18,25,13.76%,6912,50239,57511,0.90,4.14,130.12,238270
+Culture and history,39.77%,7,18,25,34.29%,17228,50239,57511,0.66,5.48,115.98,529337
+"Activities/sport (e.g., walking and hiking, cycling, health and fitness, etc.)",23.38%,4,18,25,20.45%,10276,50239,57511,0.64,2.92,114.30,311143
+Sightseeing/tourist,49.94%,9,18,25,43.89%,22049,50239,57511,0.61,6.05,113.79,664651
+Lakes/mountains/countryside (NOT including winter sports),45.25%,8,18,25,42.83%,21520,50239,57511,0.29,2.41,105.63,602217
+"Sailing/boating excluding cruises (e.g., sea, river)",5.86%,1,18,25,6.85%,3441,50239,57511,0.57,-0.99,85.56,78002
+Camping/caravanning,9.66%,2,18,25,19.70%,9900,50239,57511,-0.87,-10.05,49.02,128550
+Volunteering and eco-tourism,0.00%,0,18,25,4.97%,2498,50239,57511,0.01,-4.97,0.00,0
+Don’t know,0.00%,0,18,25,2.44%,1226,50239,57511,0.59,-2.44,0.00,0
+Not applicable - I do not tend to take leisure trips,0.00%,0,18,25,12.45%,6255,50239,57511,-1.70,-12.45,0.00,0
+
+"Hobbies, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following hobbies do you participate in?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Fitness,61.73%,51,83,93,25.28%,103805,410680,411511,7.17,36.46,244.23,821603
+Sports,37.06%,31,83,93,19.35%,79455,410680,411511,3.59,17.71,191.54,493217
+Traveling,44.02%,37,83,93,23.22%,95366,410680,411511,4.07,20.80,189.57,585878
+DIY projects / home improvement,38.60%,32,83,93,28.66%,117693,410680,411511,2.02,9.94,134.70,513752
+Gaming,43.74%,36,83,93,32.79%,134650,410680,411511,2.16,10.96,133.42,582196
+Cooking / baking,51.33%,43,83,93,41.05%,168580,410680,411511,1.98,10.28,125.04,683117
+Photography / videography,16.26%,14,83,93,14.17%,58195,410680,411511,0.74,2.09,114.76,216431
+Music (playing or listening),62.85%,52,83,93,55.82%,229256,410680,411511,1.34,7.02,112.58,836462
+Reading,44.96%,37,83,93,46.29%,190118,410680,411511,-0.24,-1.34,97.11,598342
+Collectibles,12.95%,11,83,93,15.30%,62819,410680,411511,-0.41,-2.35,84.64,172311
+Gardening,20.35%,17,83,93,24.45%,100417,410680,411511,-0.81,-4.11,83.21,270793
+Writing,10.56%,9,83,93,17.89%,73456,410680,411511,-1.94,-7.33,59.02,140498
+Arts and crafts,15.46%,13,83,93,26.45%,108644,410680,411511,-2.66,-11.00,58.43,205731
+None of these,2.64%,2,83,93,6.17%,25334,410680,411511,-1.22,-3.53,42.84,35171
+
+"NBA - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - National Basketball Association (NBA)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,35.13%,29,83,93,14.58%,59890,410680,411511,4.21,20.55,240.92,467598
+A little bit interested,16.81%,14,83,93,19.79%,81272,410680,411511,-0.56,-2.98,84.96,223769
+Not at all interested,37.41%,31,83,93,47.73%,196019,410680,411511,-2.00,-10.32,78.37,497857
+Somewhat interested,10.65%,9,83,93,17.90%,73499,410680,411511,-1.91,-7.25,59.49,141699
+
+"In Market: Hotels (1 year), Target: HIlton - Deep Divers, Control: Nationally representative"
+How likely are you to stay at a hotel in the next 12 months?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Very likely,66.47%,5,7,11,29.64%,8119,27391,34082,2.29,36.83,224.24,884636
+Likely,13.30%,1,7,11,14.21%,3892,27391,34082,0.56,-0.91,93.57,176978
+Somewhat likely,10.80%,1,7,11,18.79%,5148,27391,34082,0.03,-7.99,57.47,143758
+Not at all likely,9.43%,1,7,11,19.47%,5334,27391,34082,-0.12,-10.04,48.44,125550
+Not very likely,0.00%,0,7,11,17.88%,4897,27391,34082,-0.78,-17.88,0.00,0
+
+"Topics and hobbies of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following topics or activities are you interested in?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Playing sports / fitness,52.29%,43,83,93,23.62%,97015,410680,411511,5.52,28.66,221.34,695894
+Don't know,1.55%,1,83,93,0.80%,3304,410680,411511,1.12,0.75,192.88,20650
+Playing musical instruments,28.74%,24,83,93,15.51%,63704,410680,411511,2.91,13.23,185.29,382536
+"Hiking, climbing, or other outdoor activities",49.89%,41,83,93,28.61%,117475,410680,411511,4.11,21.29,174.41,664011
+Business & Investing,28.38%,24,83,93,17.12%,70306,410680,411511,2.50,11.26,165.77,377699
+Watching sports,48.15%,40,83,93,30.99%,127290,410680,411511,3.32,17.15,155.34,640821
+"Collecting items of interest (e.g., stamps, toys, etc.)",32.67%,27,83,93,21.54%,88474,410680,411511,2.36,11.13,151.67,434869
+Science,41.01%,34,83,93,28.41%,116659,410680,411511,2.51,12.61,144.38,545856
+Video games,46.42%,39,83,93,32.36%,132916,410680,411511,2.73,14.05,143.42,617804
+Politics,46.03%,38,83,93,34.76%,142745,410680,411511,2.20,11.27,132.42,612602
+Computers,36.38%,30,83,93,27.57%,113205,410680,411511,1.83,8.82,131.99,484216
+Books,50.67%,42,83,93,40.19%,165060,410680,411511,2.02,10.47,126.06,674336
+Watching movies,69.77%,58,83,93,59.16%,242977,410680,411511,2.12,10.60,117.92,928543
+Browsing the internet,58.09%,48,83,93,50.40%,206967,410680,411511,1.47,7.70,115.27,773185
+Fashion,25.94%,22,83,93,22.73%,93358,410680,411511,0.82,3.20,114.09,345194
+Watching TV,66.25%,55,83,93,59.32%,243635,410680,411511,1.33,6.93,111.68,881787
+Playing board games,31.13%,26,83,93,27.92%,114645,410680,411511,0.76,3.22,111.52,414334
+Entertainment,46.60%,39,83,93,41.96%,172323,410680,411511,0.91,4.64,111.05,620195
+Blogging,6.82%,6,83,93,6.22%,25543,410680,411511,0.58,0.60,109.68,90791
+Cycling,10.05%,8,83,93,9.60%,39425,410680,411511,0.43,0.45,104.64,133702
+Fishing,19.37%,16,83,93,18.60%,76368,410680,411511,0.36,0.78,104.18,257837
+DIY and home improvement,35.93%,30,83,93,35.55%,146004,410680,411511,0.14,0.38,101.07,478219
+Puzzles,28.94%,24,83,93,29.17%,119807,410680,411511,0.06,-0.23,99.22,385224
+Cooking,46.86%,39,83,93,49.47%,203162,410680,411511,-0.49,-2.61,94.72,623650
+Photography,21.11%,18,83,93,23.11%,94897,410680,411511,-0.31,-2.00,91.34,280917
+Arts & Culture,24.98%,21,83,93,28.18%,115714,410680,411511,-0.58,-3.20,88.66,332471
+Creating arts or making crafts,21.76%,18,83,93,28.68%,117776,410680,411511,-1.45,-6.92,75.88,289626
+Gardening & landscaping,22.75%,19,83,93,30.77%,126387,410680,411511,-1.68,-8.03,73.91,302748
+Bird watching,7.56%,6,83,93,12.38%,50831,410680,411511,-1.32,-4.82,61.08,100612
+Other,3.34%,3,83,93,5.97%,24518,410680,411511,-0.72,-2.63,55.93,44443
+None of these,0.00%,0,83,93,0.78%,3201,410680,411511,0.35,-0.78,0.00,0
+
+"Major League Soccer - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in  Major League Soccer?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Somewhat interested,24.20%,20,83,93,11.79%,48423,410680,411511,2.91,12.41,205.27,322117
+A little bit interested,22.85%,19,83,93,18.05%,74118,410680,411511,1.24,4.80,126.60,304102
+This is one of my TOP interests,5.46%,5,83,93,5.46%,22420,410680,411511,0.41,-0.00,99.93,72610
+Not at all interested,47.49%,39,83,93,64.70%,265719,410680,411511,-3.31,-17.21,73.40,632094
+
+"Autumntime activities, Target: HIlton - Deep Divers, Control: Nationally representative"
+"What, if any, of the following activities do you prefer to do in Autumn? Please select all that apply."
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Go to sporting events,60.52%,7,11,15,29.60%,7316,24716,26076,2.31,30.92,204.45,805489
+Other,16.73%,2,11,15,10.17%,2515,24716,26076,1.08,6.55,164.40,222632
+Play sports,37.48%,4,11,15,23.16%,5723,24716,26076,1.28,14.33,161.87,498845
+Go out to a bar,42.09%,5,11,15,26.07%,6443,24716,26076,1.34,16.02,161.46,560178
+None of these,13.99%,2,11,15,8.68%,2146,24716,26076,1.05,5.31,161.18,186250
+Visit friends and family,77.28%,9,11,15,51.34%,12689,24716,26076,1.91,25.94,150.52,1028519
+Attend outdoor performances,43.95%,5,11,15,29.75%,7352,24716,26076,1.18,14.20,147.74,584914
+Host a dinner/party,40.32%,5,11,15,32.80%,8106,24716,26076,0.70,7.52,122.94,536666
+Go to other people's dinners/parties,44.67%,5,11,15,38.33%,9475,24716,26076,0.55,6.33,116.52,594498
+Attend indoor performances,35.45%,4,11,15,30.67%,7581,24716,26076,0.56,4.78,115.58,471843
+Work out,48.49%,6,11,15,42.05%,10394,24716,26076,0.52,6.44,115.31,645385
+Go to the movie theater,33.33%,4,11,15,34.69%,8574,24716,26076,0.09,-1.36,96.08,443606
+Go to comedy shows,22.02%,3,11,15,23.21%,5736,24716,26076,0.26,-1.19,94.89,293106
+Go shopping,44.91%,5,11,15,47.46%,11732,24716,26076,-0.14,-2.55,94.62,597761
+Go to a concert,31.41%,4,11,15,33.22%,8210,24716,26076,0.08,-1.81,94.56,418034
+Go to museums,29.78%,3,11,15,31.52%,7790,24716,26076,0.11,-1.74,94.49,396322
+Go walking,54.30%,6,11,15,59.34%,14667,24716,26076,-0.44,-5.04,91.51,722719
+Try something new,37.24%,4,11,15,40.85%,10098,24716,26076,-0.14,-3.61,91.16,495665
+Travel,35.75%,4,11,15,40.88%,10104,24716,26076,-0.24,-5.13,87.46,475866
+Go sightseeing,31.62%,4,11,15,37.26%,9210,24716,26076,-0.24,-5.65,84.85,420808
+Go to theatre shows,19.76%,2,11,15,24.54%,6067,24716,26076,-0.02,-4.78,80.52,263029
+Don't know,0.00%,0,11,15,5.02%,1240,24716,26076,0.36,-5.02,0.00,0
+
+"Springtime activities, Target: HIlton - Deep Divers, Control: Nationally representative"
+"What, if any, of the following activities do you prefer to do in Spring? Please select all that apply."
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Go out to a bar,50.78%,6,11,15,27.24%,6732,24716,26076,1.81,23.54,186.45,675842
+Go to sporting events,51.83%,6,11,15,29.35%,7255,24716,26076,1.72,22.48,176.57,689825
+None of these,13.99%,2,11,15,8.25%,2040,24716,26076,1.09,5.74,169.55,186250
+Other,16.73%,2,11,15,10.50%,2595,24716,26076,1.05,6.23,159.31,222632
+Attend indoor performances,40.08%,5,11,15,26.23%,6484,24716,26076,1.20,13.85,152.78,533426
+Play sports,41.86%,5,11,15,28.05%,6932,24716,26076,1.18,13.81,149.25,557166
+Visit friends and family,71.06%,8,11,15,53.88%,13318,24716,26076,1.16,17.18,131.88,945773
+Go to the movie theater,37.68%,4,11,15,30.25%,7476,24716,26076,0.73,7.43,124.55,501437
+Host a dinner/party,37.57%,4,11,15,31.26%,7725,24716,26076,0.65,6.32,120.21,500087
+Work out,52.84%,6,11,15,44.94%,11107,24716,26076,0.58,7.90,117.58,703217
+Go to other people's dinners/parties,44.70%,5,11,15,38.30%,9467,24716,26076,0.56,6.40,116.71,594987
+Go to comedy shows,26.37%,3,11,15,25.23%,6237,24716,26076,0.40,1.14,104.50,350938
+Attend outdoor performances,37.77%,4,11,15,37.29%,9218,24716,26076,0.18,0.47,101.27,502656
+Go shopping,49.26%,6,11,15,49.54%,12245,24716,26076,-0.01,-0.28,99.43,655593
+Go to theatre shows,25.94%,3,11,15,26.29%,6497,24716,26076,0.28,-0.34,98.70,345287
+Go walking,58.65%,7,11,15,62.49%,15445,24716,26076,-0.40,-3.84,93.85,780551
+Go to a concert,30.88%,4,11,15,36.82%,9099,24716,26076,-0.25,-5.93,83.89,411042
+Travel,37.59%,4,11,15,45.58%,11265,24716,26076,-0.49,-7.99,82.48,500292
+Go to museums,28.86%,3,11,15,35.96%,8888,24716,26076,-0.33,-7.09,80.27,384168
+Go sightseeing,31.62%,4,11,15,41.34%,10219,24716,26076,-0.57,-9.73,76.47,420808
+Try something new,28.51%,3,11,15,44.94%,11107,24716,26076,-1.10,-16.42,63.46,379512
+Don't know,0.00%,0,11,15,5.38%,1329,24716,26076,0.31,-5.38,0.00,0
+
+"Importance of 'VIP access (e.g. dedicated bars, premium view of stage, meet and greet session, etc.)' when choosing a music festival to attend, Target: HIlton - Deep Divers, Control: Nationally representative"
+"How important are the following factors when choosing to attend a music festival? - VIP access (e.g. dedicated bars, premium view of stage, meet and greet session, etc.)"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Very unimportant,36.75%,7,20,23,20.65%,6882,33328,37252,1.71,16.10,177.98,489140
+Slightly important,15.58%,3,20,23,10.91%,3638,33328,37252,0.96,4.66,142.71,207308
+Neither important nor unimportant,38.22%,8,20,23,31.97%,10655,33328,37252,0.72,6.25,119.56,508736
+Not asked,9.45%,2,20,23,17.61%,5869,33328,37252,-0.64,-8.16,53.65,125738
+Slightly unimportant,0.00%,0,20,23,12.41%,4135,33328,37252,-1.82,-12.41,0.00,0
+Very important,0.00%,0,20,23,6.45%,2149,33328,37252,-0.44,-6.45,0.00,0
+
+"Leisure interests, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following topics are you interested in? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Personal finance and investing,44.65%,37,83,93,25.10%,103097,410680,411511,3.81,19.54,177.85,594234
+Health and fitness,57.14%,47,83,93,36.68%,150654,410680,411511,3.95,20.45,155.75,760436
+Sports,49.01%,41,83,93,32.77%,134589,410680,411511,3.14,16.24,149.55,652316
+Fashion and style,37.48%,31,83,93,26.00%,106783,410680,411511,2.34,11.48,144.14,498820
+Travel and tourism,49.22%,41,83,93,35.23%,144670,410680,411511,2.70,13.99,139.72,655077
+Current events and politics,60.36%,50,83,93,44.35%,182121,410680,411511,3.10,16.01,136.10,803305
+Home improvement and DIY,48.32%,40,83,93,37.24%,152922,410680,411511,2.15,11.08,129.77,643118
+Technology and gadgets,43.42%,36,83,93,33.80%,138790,410680,411511,1.90,9.62,128.48,577866
+Food and cooking,65.18%,54,83,93,56.24%,230972,410680,411511,1.73,8.94,115.90,867533
+Religion and spirituality,32.42%,27,83,93,28.68%,117798,410680,411511,0.85,3.74,113.04,431529
+Movies and TV shows,66.63%,55,83,93,60.08%,246739,410680,411511,1.26,6.55,110.90,886792
+Science and nature,41.00%,34,83,93,39.12%,160673,410680,411511,0.41,1.87,104.79,545626
+Music,60.69%,50,83,93,58.72%,241134,410680,411511,0.34,1.98,103.37,807778
+Cars and motoring,18.81%,16,83,93,18.27%,75042,410680,411511,0.31,0.54,102.96,250381
+Arts and culture,29.44%,24,83,93,30.81%,126513,410680,411511,-0.19,-1.36,95.57,391843
+Books and literature,36.15%,30,83,93,38.14%,156647,410680,411511,-0.33,-2.00,94.76,481080
+Gardening,22.44%,19,83,93,30.78%,126400,410680,411511,-1.76,-8.34,72.91,298665
+None of these,0.00%,0,83,93,3.41%,13985,410680,411511,-2.00,-3.41,0.00,0
+
+"Travel activities, Target: HIlton - Deep Divers, Control: Nationally representative"
+Which activities do you do when you travel?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Outdoor activities,77.58%,64,83,93,47.02%,193098,410680,411511,6.85,30.56,165.00,1032530
+Cultural experiences,61.12%,51,83,93,39.63%,162740,410680,411511,4.19,21.49,154.23,813413
+Shopping,59.04%,49,83,93,44.88%,184314,410680,411511,2.73,14.16,131.55,785791
+Dining out,83.39%,69,83,93,64.29%,264023,410680,411511,4.66,19.10,129.72,1109899
+Sightseeing,80.09%,67,83,93,65.17%,267630,410680,411511,3.39,14.92,122.90,1065916
+Relaxing,80.02%,67,83,93,65.99%,270993,410680,411511,3.17,14.03,121.26,1064965
+None of these,0.98%,1,83,93,11.64%,47806,410680,411511,-6.35,-10.66,8.39,12996
+
+"Esports- level of interest - Top 3, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - Esports (Top 3)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Top 3,32.60%,27,83,93,19.95%,81942,410680,411511,2.68,12.65,163.39,433902
+Other,67.40%,56,83,93,80.05%,328737,410680,411511,-2.68,-12.65,84.20,897021
+
+"Importance of 'the atmosphere' when choosing a music festival to attend, Target: HIlton - Deep Divers, Control: Nationally representative"
+How important are the following factors when choosing to attend a music festival? - The atmosphere
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Slightly important,39.04%,8,20,23,24.07%,8023,33328,37252,1.56,14.96,162.16,519532
+Very important,32.67%,7,20,23,31.40%,10466,33328,37252,0.29,1.27,104.05,434875
+Neither important nor unimportant,18.84%,4,20,23,18.98%,6324,33328,37252,0.31,-0.13,99.30,250777
+Not asked,9.45%,2,20,23,17.61%,5869,33328,37252,-0.64,-8.16,53.65,125738
+Very unimportant,0.00%,0,20,23,6.14%,2046,33328,37252,-0.37,-6.14,0.00,0
+Slightly unimportant,0.00%,0,20,23,1.80%,599,33328,37252,0.63,-1.80,0.00,0
+
+"Music festival behaviour type, Target: HIlton - Deep Divers, Control: Nationally representative"
+"Thinking about music festivals, which, if any, of the following best describes you?"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+I never go to any music festival,62.74%,13,20,23,40.54%,13547,33417,37353,2.07,22.20,154.77,835018
+I’m an occasional festival goer,12.12%,2,20,23,12.68%,4236,33417,37353,0.38,-0.55,95.63,161325
+I rarely go to festivals,15.69%,3,20,23,24.03%,8031,33417,37353,-0.64,-8.34,65.29,208841
+Not asked,9.45%,2,20,23,17.56%,5869,33417,37353,-0.63,-8.12,53.79,125738
+I’m a regular festival goer,0.00%,0,20,23,2.83%,946,33417,37353,0.39,-2.83,0.00,0
+Don’t know,0.00%,0,20,23,2.36%,788,33417,37353,0.50,-2.36,0.00,0
+
+"Consumer personalities, Target: HIlton - Deep Divers, Control: Nationally representative"
+Consumer personalities
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Premium spenders,31.01%,15,49,59,20.08%,2675,13323,15942,1.92,10.93,154.43,412680
+Curious influencers,20.80%,10,49,59,17.17%,2288,13323,15942,0.88,3.63,121.11,276828
+Conscious consumers,20.04%,10,49,59,17.20%,2292,13323,15942,0.75,2.84,116.49,266742
+Complacent clientele,16.52%,8,49,59,24.77%,3300,13323,15942,-1.39,-8.26,66.67,219805
+Sceptical shoppers,11.64%,6,49,59,20.77%,2767,13323,15942,-1.73,-9.13,56.03,154868
+
+"DestinationIndex: Aided Brand Awareness (last 60 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following destinations have you *ever* heard of? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Okinawa,100.00%,1,1,1,66.88%,2800,4186,4520,0.10,33.12,149.51,1330923
+Qatar,100.00%,1,1,1,72.68%,3007,4137,4488,-0.03,27.32,137.59,1330923
+Malaysia,100.00%,1,1,1,79.55%,3317,4170,4533,-0.18,20.45,125.70,1330923
+Dubai (United Arab Emirates),100.00%,1,1,1,82.92%,3449,4159,4561,-0.26,17.08,120.60,1330923
+Saudi Arabia,100.00%,1,1,1,83.37%,3446,4133,4524,-0.27,16.63,119.95,1330923
+Iceland,100.00%,1,1,1,83.82%,3509,4187,4555,-0.28,16.18,119.30,1330923
+Thailand,100.00%,1,1,1,84.50%,3505,4148,4494,-0.29,15.50,118.35,1330923
+Sweden,100.00%,1,1,1,84.63%,3530,4171,4497,-0.29,15.37,118.16,1330923
+Philippines,100.00%,1,1,1,84.77%,3505,4134,4477,-0.30,15.23,117.96,1330923
+Scotland,100.00%,1,1,1,84.83%,3540,4173,4541,-0.30,15.17,117.88,1330923
+South Korea,100.00%,1,1,1,84.93%,3516,4140,4531,-0.30,15.07,117.75,1330923
+Hong Kong,100.00%,1,1,1,85.39%,3519,4121,4510,-0.31,14.61,117.11,1330923
+Barcelona,100.00%,1,1,1,85.92%,3538,4117,4517,-0.32,14.08,116.38,1330923
+Puerto Rico,100.00%,1,1,1,86.70%,3581,4131,4498,-0.34,13.30,115.34,1330923
+Australia,100.00%,1,1,1,87.58%,3606,4117,4500,-0.36,12.42,114.18,1330923
+Germany,100.00%,1,1,1,88.49%,3637,4109,4496,-0.38,11.51,113.00,1330923
+State of Hawaii (US),100.00%,1,1,1,88.62%,3657,4127,4511,-0.38,11.38,112.84,1330923
+China,100.00%,1,1,1,89.29%,3680,4121,4510,-0.40,10.71,111.99,1330923
+Spain,100.00%,1,1,1,89.56%,3713,4146,4536,-0.40,10.44,111.66,1330923
+Arizona (USA),100.00%,1,1,1,89.61%,3687,4114,4532,-0.40,10.39,111.59,1330923
+United Kingdom (UK),100.00%,1,1,1,89.94%,3754,4174,4520,-0.41,10.06,111.18,1330923
+Mexico,100.00%,1,1,1,90.20%,3732,4138,4512,-0.42,9.80,110.86,1330923
+Italy,100.00%,1,1,1,90.62%,3766,4155,4535,-0.43,9.38,110.35,1330923
+France,100.00%,1,1,1,90.97%,3796,4173,4507,-0.43,9.03,109.92,1330923
+Canada,100.00%,1,1,1,91.55%,3814,4167,4534,-0.45,8.45,109.23,1330923
+Florida (US),100.00%,1,1,1,91.93%,3782,4113,4518,-0.46,8.07,108.77,1330923
+Las Vegas,100.00%,1,1,1,92.06%,3823,4153,4510,-0.46,7.94,108.63,1330923
+California (US),100.00%,1,1,1,93.32%,3904,4183,4538,-0.49,6.68,107.16,1330923
+New York (US),100.00%,1,1,1,94.30%,3921,4158,4522,-0.51,5.70,106.05,1330923
+Abu Dhabi,0.00%,0,0,0,70.19%,2915,4153,4548,0.00,-70.19,0.00,-
+Maldives,0.00%,0,1,1,68.72%,2874,4182,4552,-0.89,-68.72,0.00,0
+Singapore,0.00%,0,0,0,83.38%,3477,4170,4503,0.00,-83.38,0.00,-
+
+"NASCAR - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - NASCAR
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,8.59%,7,83,93,5.83%,23935,410680,411511,1.23,2.77,147.47,114389
+Somewhat interested,14.10%,12,83,93,12.67%,52028,410680,411511,0.61,1.43,111.27,187619
+A little bit interested,19.31%,16,83,93,19.25%,79058,410680,411511,0.19,0.06,100.29,256942
+Not at all interested,58.00%,48,83,93,62.25%,255659,410680,411511,-0.87,-4.25,93.17,771973
+
+"Traditional, Target: HIlton - Deep Divers, Control: Nationally representative"
+Traditional
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Traditional - Does not identify with,57.31%,48,83,93,39.70%,6348,15989,18833,3.39,17.61,144.35,762775
+Traditional - Identifies with,42.69%,35,83,93,60.30%,9641,15989,18833,-3.39,-17.61,70.80,568148
+
+"Grammy Awards - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+Grammy Awards (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Somewhat interested,23.52%,1,3,5,16.71%,3428,20515,26548,0.79,6.81,140.75,312975
+Not at all interested,60.32%,2,3,5,52.90%,10853,20515,26548,0.16,7.42,114.02,802751
+A little bit interested,16.17%,1,3,5,22.97%,4713,20515,26548,0.28,-6.80,70.38,215196
+This is one of my TOP interests,0.00%,0,3,5,7.42%,1522,20515,26548,0.64,-7.42,0.00,0
+
+"Statements agreed with about Travel, Target: HIlton - Deep Divers, Control: Nationally representative"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+I am excited to generally spend more when traveling,63.28%,11,17,23,45.33%,22587,49828,69520,1.63,17.95,139.61,842272
+If I have extra currency from travel left over I try to blow it at the airport/train station/etc. before leaving,26.23%,5,19,26,20.74%,12451,60031,77050,0.88,5.49,126.47,349113
+I am passionate about traveling,63.26%,8,13,17,51.16%,20288,39659,56715,0.87,12.11,123.67,841989
+I like wasting time shopping at airports,23.47%,4,17,23,19.80%,9863,49806,69472,0.71,3.66,118.51,312339
+You can only ever get to know a country by experiencing its culture,88.06%,13,14,19,74.69%,28588,38277,55176,1.02,13.37,117.90,1171947
+"When I go on vacation I only want to eat, drink and lie in the sun",48.79%,7,14,19,42.63%,16878,39589,56741,0.55,6.16,114.45,649385
+I like to spend my leisure time relaxing,90.65%,15,16,21,82.81%,32694,39479,56727,0.45,7.83,109.46,1206430
+Technology distracts me from enjoying a good vacation,35.09%,4,11,14,32.23%,9047,28069,42566,0.40,2.86,108.89,467086
+I try to shop Duty Free at airports/train stations rather than at the main shops for a better deal,18.74%,3,18,24,19.14%,9403,49140,68902,0.33,-0.40,97.93,249416
+I tend to spend my leisure time on hobbies and activities,67.68%,11,16,20,72.57%,29049,40030,57336,-0.65,-4.89,93.26,900772
+I like my vacations to have some form of physical activity,52.16%,8,14,19,56.62%,21676,38286,55175,-0.41,-4.46,92.12,694161
+I would never think of taking a package holiday/vacations,25.42%,4,16,22,27.74%,14027,50568,64805,0.04,-2.32,91.65,338353
+"When I’m planning my next vacation, I have at least one destination in mind or already selected",59.90%,9,14,19,68.26%,27024,39589,56747,-0.85,-8.37,87.75,797178
+A phone/tablet can improve my traveling experience,65.22%,7,11,14,76.88%,21579,28068,42570,-1.09,-11.66,84.83,868010
+I usually go back to the same places on vacation,37.73%,6,16,21,44.88%,17691,39415,56668,-0.55,-7.15,84.07,502192
+I like to come back from vacation having learnt something new,54.82%,8,14,19,66.70%,25533,38278,55179,-1.09,-11.88,82.19,729676
+Having a phone or tablet makes me feel like I won't miss anything while I'm away,53.46%,6,11,14,65.42%,18366,28073,42568,-0.94,-11.96,81.72,711560
+I like being connected to people back home when I'm traveling,55.35%,6,11,14,68.03%,19099,28073,42571,-1.01,-12.68,81.36,736725
+I can't get around without my phone,40.85%,4,11,14,50.46%,14166,28075,42566,-0.62,-9.60,80.97,543729
+"When I go on vacation, I like to go off the beaten track",35.89%,6,16,21,48.97%,19306,39422,56665,-1.09,-13.08,73.29,477689
+"I tend to book my short breaks (i.e., up to 3 days) outside of school vacations/breaks",26.19%,4,16,22,36.36%,18411,50631,64859,-0.78,-10.18,72.02,348546
+"I tend to book my vacations  (i.e., more than 3 days) outside of school vacations/breaks",22.45%,4,16,22,36.65%,18525,50553,64787,-1.20,-14.19,61.26,298802
+I usually wait for last minute deals rather than planning my holiday/vacations or short break in advance,17.72%,3,16,22,30.32%,15342,50596,64835,-1.04,-12.60,58.45,235879
+I try to keep to a strict budget when I go on vacation,23.40%,3,14,19,51.37%,19667,38284,55188,-2.44,-27.97,45.55,311459
+
+"U.S. Open (golf) - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+U.S. Open (golf) (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Not at all interested,100.00%,3,3,5,72.37%,14847,20515,26548,0.53,27.63,138.18,1330923
+A little bit interested,0.00%,0,3,5,14.10%,2894,20515,26548,0.25,-14.10,0.00,0
+Somewhat interested,0.00%,0,3,5,9.14%,1874,20515,26548,0.54,-9.14,0.00,0
+This is one of my TOP interests,0.00%,0,3,5,4.39%,900,20515,26548,0.81,-4.39,0.00,0
+
+"Formula 1 - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - Formula 1
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,6.69%,6,83,93,4.87%,20012,410680,411511,1.02,1.82,137.29,89043
+Not at all interested,70.08%,58,83,93,68.37%,280795,410680,411511,0.26,1.70,102.49,932670
+Somewhat interested,9.46%,8,83,93,10.06%,41302,410680,411511,0.11,-0.60,94.07,125919
+A little bit interested,13.77%,11,83,93,16.70%,68570,410680,411511,-0.57,-2.93,82.48,183290
+
+"PGA Championship (golf) - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+PGA Championship (golf)   (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Not at all interested,100.00%,3,3,5,73.23%,15023,20515,26548,0.48,26.77,136.56,1330923
+A little bit interested,0.00%,0,3,5,14.14%,2900,20515,26548,0.25,-14.14,0.00,0
+Somewhat interested,0.00%,0,3,5,8.56%,1757,20515,26548,0.57,-8.56,0.00,0
+This is one of my TOP interests,0.00%,0,3,5,4.07%,836,20515,26548,0.83,-4.07,0.00,0
+
+"Level of agreement (5-point scale): ""I prefer visiting local attractions"", Target: HIlton - Deep Divers, Control: Nationally representative"
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Tend to disagree,16.93%,2,11,14,12.88%,3611,28044,42556,0.83,4.06,131.52,225386
+Neither agree nor disagree,37.29%,4,11,14,29.12%,8165,28044,42556,0.78,8.17,128.06,496247
+Definitely agree,14.34%,2,11,14,14.74%,4134,28044,42556,0.48,-0.40,97.32,190908
+Tend to agree,31.44%,3,11,14,40.10%,11246,28044,42556,-0.46,-8.67,78.39,418382
+Definitely disagree,0.00%,0,11,14,3.17%,888,28044,42556,0.64,-3.17,0.00,0
+
+"NFL Combine - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+NFL Combine (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+A little bit interested,23.52%,1,3,5,18.25%,3745,20515,26548,0.71,5.26,128.84,312975
+Not at all interested,76.48%,3,3,5,69.35%,14227,20515,26548,-0.12,7.14,110.29,1017947
+Somewhat interested,0.00%,0,3,5,9.90%,2031,20515,26548,0.49,-9.90,0.00,0
+This is one of my TOP interests,0.00%,0,3,5,2.50%,513,20515,26548,0.92,-2.50,0.00,0
+
+"Daytona 500 (NASCAR) - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+Daytona 500 (NASCAR) (Level of Interest)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Not at all interested,76.87%,3,3,5,61.80%,12678,20515,26548,0.25,15.07,124.39,1023018
+A little bit interested,23.13%,1,3,5,19.66%,4033,20515,26548,0.64,3.48,117.68,307905
+Somewhat interested,0.00%,0,3,5,12.27%,2518,20515,26548,0.36,-12.27,0.00,0
+This is one of my TOP interests,0.00%,0,3,5,6.27%,1287,20515,26548,0.70,-6.27,0.00,0
+
+"NFL - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your level of interest in the following sports? - National Football League (NFL)
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,36.17%,30,83,93,29.49%,121100,410680,411511,1.40,6.68,122.65,481346
+A little bit interested,20.49%,17,83,93,16.75%,68786,410680,411511,1.05,3.74,122.33,272705
+Not at all interested,28.18%,23,83,93,33.94%,139377,410680,411511,-1.12,-5.76,83.04,375083
+Somewhat interested,15.16%,13,83,93,19.82%,81417,410680,411511,-1.01,-4.66,76.48,201788
+
+"Sport in general - level of interest, Target: HIlton - Deep Divers, Control: Nationally representative"
+What is your overall level of interest in watching/following sports?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+This is one of my TOP interests,0.00%,0,0,0,0.00%,0,0,0,0.00,0.00,100.00,-
+I am somewhat interested in sports,0.00%,0,0,0,0.00%,0,0,0,0.00,0.00,100.00,-
+I am a little bit interested in sports,0.00%,0,0,0,0.00%,0,0,0,0.00,0.00,100.00,-
+I have no interest in sports,0.00%,0,0,0,0.00%,0,0,0,0.00,0.00,100.00,-
+
+"Clothing (All other): Aided Brand Awareness (last 60 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following clothing and apparel stores have you *ever* heard of? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Abercrombie & Fitch,0.00%,0,0,0,76.43%,4228,5532,6355,0.00,-76.43,0.00,-
+Aeropostale,0.00%,0,0,0,65.77%,3638,5532,6355,0.00,-65.77,0.00,-
+American Eagle,0.00%,0,0,0,82.78%,4580,5532,6355,0.00,-82.78,0.00,-
+Banana Republic,0.00%,0,0,0,78.32%,4333,5532,6355,0.00,-78.32,0.00,-
+Boohoo,0.00%,0,0,0,5.72%,316,5532,6355,0.00,-5.72,0.00,-
+Cato,0.00%,0,0,0,19.49%,1078,5532,6355,0.00,-19.49,0.00,-
+Claires,0.00%,0,0,0,54.19%,2998,5532,6355,0.00,-54.19,0.00,-
+DKNY,0.00%,0,0,0,54.53%,3017,5532,6355,0.00,-54.53,0.00,-
+Everlane,0.00%,0,0,0,7.39%,409,5532,6355,0.00,-7.39,0.00,-
+Express,0.00%,0,0,0,40.66%,2249,5532,6355,0.00,-40.66,0.00,-
+Gap,0.00%,0,0,0,87.63%,4848,5532,6355,0.00,-87.63,0.00,-
+H&M,0.00%,0,0,0,64.65%,3576,5532,6355,0.00,-64.65,0.00,-
+Hollister,0.00%,0,0,0,60.84%,3366,5532,6355,0.00,-60.84,0.00,-
+J. Crew,0.00%,0,0,0,60.95%,3372,5532,6355,0.00,-60.95,0.00,-
+J. Jill,0.00%,0,0,0,17.27%,955,5532,6355,0.00,-17.27,0.00,-
+J.Crew Factory,0.00%,0,0,0,43.78%,2422,5532,6355,0.00,-43.78,0.00,-
+Jos. A. Bank,0.00%,0,0,0,41.75%,2310,5532,6355,0.00,-41.75,0.00,-
+Madewell,0.00%,0,0,0,13.09%,724,5532,6355,0.00,-13.09,0.00,-
+Maurice's,0.00%,0,0,0,27.12%,1500,5532,6355,0.00,-27.12,0.00,-
+Men's Wearhouse,0.00%,0,0,0,71.31%,3945,5532,6355,0.00,-71.31,0.00,-
+Old Navy,0.00%,0,0,0,93.18%,5154,5532,6355,0.00,-93.18,0.00,-
+Pacific Sunwear,0.00%,0,0,0,26.75%,1480,5532,6355,0.00,-26.75,0.00,-
+Ralph Lauren,0.00%,0,0,0,80.85%,4473,5532,6355,0.00,-80.85,0.00,-
+SHEIN,0.00%,0,0,0,61.99%,3429,5532,6355,0.00,-61.99,0.00,-
+Stitch Fix,0.00%,0,0,0,31.76%,1757,5532,6355,0.00,-31.76,0.00,-
+Tommy Hilfiger,0.00%,0,0,0,84.04%,4649,5532,6355,0.00,-84.04,0.00,-
+Uniqlo,0.00%,0,0,0,14.81%,819,5532,6355,0.00,-14.81,0.00,-
+Urban Outfitters,0.00%,0,0,0,61.83%,3421,5532,6355,0.00,-61.83,0.00,-
+Zappos.com,0.00%,0,0,0,38.75%,2144,5532,6355,0.00,-38.75,0.00,-
+Zara,0.00%,0,0,0,32.62%,1805,5532,6355,0.00,-32.62,0.00,-
+
+"Clothing (Women's): Aided Brand Awareness (last 28 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Which of the following clothing and apparel stores have you *ever* heard of? Please select all that apply.
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+Adore Me,0.00%,0,0,0,17.23%,240,1393,1501,0.00,-17.23,0.00,-
+Aerie,0.00%,0,0,0,26.25%,366,1393,1501,0.00,-26.25,0.00,-
+Ann Taylor,0.00%,0,0,0,53.10%,740,1393,1501,0.00,-53.10,0.00,-
+Anthropologie,0.00%,0,0,0,36.02%,502,1393,1501,0.00,-36.02,0.00,-
+BCBGMAXAZRIA,0.00%,0,0,0,10.07%,140,1393,1501,0.00,-10.07,0.00,-
+Bebe,0.00%,0,0,0,32.25%,449,1393,1501,0.00,-32.25,0.00,-
+Chico's,0.00%,0,0,0,38.07%,530,1393,1501,0.00,-38.07,0.00,-
+Christopher & Banks,0.00%,0,0,0,24.11%,336,1393,1501,0.00,-24.11,0.00,-
+Forever 21,0.00%,0,0,0,78.93%,1100,1393,1501,0.00,-78.93,0.00,-
+Free People,0.00%,0,0,0,19.42%,271,1393,1501,0.00,-19.42,0.00,-
+Juicy Couture,0.00%,0,0,0,45.21%,630,1393,1501,0.00,-45.21,0.00,-
+Lane Bryant,0.00%,0,0,0,61.61%,858,1393,1501,0.00,-61.61,0.00,-
+LOFT,0.00%,0,0,0,32.62%,454,1393,1501,0.00,-32.62,0.00,-
+Lucky Brand,0.00%,0,0,0,40.56%,565,1393,1501,0.00,-40.56,0.00,-
+Rent the Runway,0.00%,0,0,0,9.68%,135,1393,1501,0.00,-9.68,0.00,-
+Savage x Fenty,0.00%,0,0,0,29.09%,405,1393,1501,0.00,-29.09,0.00,-
+SKIMS,0.00%,0,0,0,38.46%,536,1393,1501,0.00,-38.46,0.00,-
+Talbots,0.00%,0,0,0,39.92%,556,1393,1501,0.00,-39.92,0.00,-
+ThirdLove,0.00%,0,0,0,6.84%,95,1393,1501,0.00,-6.84,0.00,-
+Torrid,0.00%,0,0,0,26.55%,370,1393,1501,0.00,-26.55,0.00,-
+Victoria's Secret,0.00%,0,0,0,94.67%,1319,1393,1501,0.00,-94.67,0.00,-
+VS Pink,0.00%,0,0,0,28.21%,393,1393,1501,0.00,-28.21,0.00,-
+White House/Black Market,0.00%,0,0,0,25.72%,358,1393,1501,0.00,-25.72,0.00,-
+
+"Household and Personal Care: Current Customer (last 60 days), Target: HIlton - Deep Divers, Control: Nationally representative"
+Have you purchased consumer goods from any of the following consumer brands in the past 30 days?
+Response label,Target percent,Target count,Target weighted base,Target base,Control percent,Control count,Control weighted base,Control base,Z-Score,Diff,Index,Population estimate
+3M,0.00%,0,1,1,3.29%,79,2413,2673,0.73,-3.29,0.00,0
+ACT,0.00%,0,0,0,1.74%,41,2342,2625,0.00,-1.74,0.00,-
+all free clear,0.00%,0,0,0,3.71%,86,2316,2661,0.00,-3.71,0.00,-
+Axe,0.00%,0,1,1,5.15%,120,2325,2631,0.70,-5.15,0.00,0
+Blue Buffalo,0.00%,0,0,0,4.27%,104,2432,2702,0.00,-4.27,0.00,-
+Burt's Bees,0.00%,0,0,0,5.44%,132,2433,2705,0.00,-5.44,0.00,-
+Charmin,0.00%,0,0,0,16.25%,395,2428,2764,0.00,-16.25,0.00,-
+Chewy.com,0.00%,0,1,1,8.33%,202,2430,2690,0.63,-8.33,0.00,0
+Clorox,0.00%,0,1,1,18.75%,436,2328,2695,0.42,-18.75,0.00,0
+Colgate,0.00%,0,1,1,23.44%,567,2418,2683,0.32,-23.44,0.00,0
+Cottonelle,0.00%,0,1,1,8.92%,222,2485,2696,0.62,-8.92,0.00,0
+Crest,0.00%,0,0,0,18.96%,449,2369,2652,0.00,-18.96,0.00,-
+Dawn,0.00%,0,0,0,31.04%,735,2367,2653,0.00,-31.04,0.00,-
+Dial,0.00%,0,0,0,8.41%,206,2447,2696,0.00,-8.41,0.00,-
+Dollar Shave Club,0.00%,0,1,1,3.64%,89,2457,2691,0.73,-3.64,0.00,0
+Dove Men + Care,0.00%,0,0,0,9.29%,220,2368,2653,0.00,-9.29,0.00,-
+Duracell,0.00%,0,1,1,13.60%,337,2480,2717,0.52,-13.60,0.00,0
+Energizer,0.00%,0,0,0,14.58%,344,2363,2655,0.00,-14.58,0.00,-
+Gillette,0.00%,0,1,1,11.84%,279,2353,2622,0.56,-11.84,0.00,0
+Glade,0.00%,0,0,0,9.86%,87,887,949,0.00,-9.86,0.00,-
+Hefty,0.00%,0,1,1,11.19%,264,2356,2631,0.57,-11.19,0.00,0
+Huggies,0.00%,0,1,1,4.13%,99,2388,2697,0.72,-4.13,0.00,0
+Invisalign,0.00%,0,1,1,1.02%,24,2393,2688,0.78,-1.02,0.00,0
+Kleenex,0.00%,0,1,1,16.35%,375,2291,2648,0.47,-16.35,0.00,0
+Kotex,0.00%,0,1,1,3.18%,80,2530,2702,0.74,-3.18,0.00,0
+Listerine,0.00%,0,0,0,10.02%,232,2316,2617,0.00,-10.02,0.00,-
+Lysol,0.00%,0,1,1,13.70%,324,2362,2671,0.52,-13.70,0.00,0
+Meow Mix,0.00%,0,0,0,5.71%,139,2441,2704,0.00,-5.71,0.00,-
+Method,0.00%,0,1,1,1.91%,47,2443,2710,0.76,-1.91,0.00,0
+Miracle Gro,0.00%,0,0,0,2.04%,49,2412,2656,0.00,-2.04,0.00,-
+Mrs. Meyer's,0.00%,0,0,0,2.87%,69,2390,2688,0.00,-2.87,0.00,-
+Nature's Recipe,0.00%,0,1,1,1.17%,28,2432,2694,0.78,-1.17,0.00,0
+OFF!,0.00%,0,1,1,1.42%,13,892,953,0.77,-1.42,0.00,0
+Old Spice,0.00%,0,0,0,11.15%,276,2477,2722,0.00,-11.15,0.00,-
+Ortho,0.00%,0,0,0,1.51%,37,2438,2667,0.00,-1.51,0.00,-
+OxiClean,0.00%,0,0,0,6.79%,156,2291,2632,0.00,-6.79,0.00,-
+Pedigree,0.00%,0,0,0,5.12%,122,2377,2703,0.00,-5.12,0.00,-
+Petco,0.00%,0,1,1,4.14%,102,2459,2701,0.72,-4.14,0.00,0
+PetMeds,0.00%,0,1,1,0.43%,10,2368,2700,0.79,-0.43,0.00,0
+PetSmart,0.00%,0,0,0,6.23%,148,2370,2687,0.00,-6.23,0.00,-
+Procter & Gamble (P&G),0.00%,0,1,1,8.89%,213,2392,2649,0.62,-8.89,0.00,0
+Purina,0.00%,0,1,1,9.22%,212,2296,2664,0.61,-9.22,0.00,0
+Raid,0.00%,0,1,1,3.63%,51,1419,1571,0.73,-3.63,0.00,0
+Reynolds,0.00%,0,1,1,9.71%,234,2411,2660,0.60,-9.71,0.00,0
+Roundup,0.00%,0,0,0,0.60%,15,2408,2703,0.00,-0.60,0.00,-
+Rubbermaid,0.00%,0,0,0,2.76%,67,2429,2699,0.00,-2.76,0.00,-
+Schick,0.00%,0,1,1,1.23%,30,2423,2664,0.78,-1.23,0.00,0
+Scope,0.00%,0,0,0,5.16%,123,2386,2702,0.00,-5.16,0.00,-
+Scott (Paper Products),0.00%,0,0,0,11.72%,284,2426,2673,0.00,-11.72,0.00,-
+Scotts (Lawn Care),0.00%,0,0,0,1.27%,31,2444,2677,0.00,-1.27,0.00,-
+Secret,0.00%,0,1,1,7.87%,185,2350,2661,0.64,-7.87,0.00,0
+Seventh Generation,0.00%,0,1,1,1.48%,37,2526,2693,0.77,-1.48,0.00,0
+Shout,0.00%,0,1,1,4.82%,112,2333,2609,0.70,-4.82,0.00,0
+Soft Scrub,0.00%,0,1,1,2.19%,52,2379,2657,0.76,-2.19,0.00,0
+Tampax,0.00%,0,0,0,4.12%,103,2501,2712,0.00,-4.12,0.00,-
+Tide,0.00%,0,1,1,19.62%,474,2419,2672,0.40,-19.62,0.00,0
+

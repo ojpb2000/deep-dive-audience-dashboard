@@ -1,0 +1,67 @@
+========================================
+INSTRUCCIONES PARA EJECUTAR EL DASHBOARD
+========================================
+
+OPCION 1: Usar el archivo .bat (MAS FACIL)
+-------------------------------------------
+1. Haz doble clic en el archivo: EJECUTAR_AHORA.bat
+2. El dashboard se abrira automaticamente
+3. Si no se abre, ve a: http://localhost:8501
+
+OPCION 2: Desde la Terminal de Cursor
+--------------------------------------
+1. Abre la terminal en Cursor (Ctrl + `)
+2. Ejecuta estos comandos:
+
+   cd "C:\Users\oscar.perez\OneDrive - OneWorkplace\Documentos\2025\Hilton\Hilton - Deep Divers"
+   python -m streamlit run app.py
+
+3. Espera a ver el mensaje:
+   "You can now view your Streamlit app in your browser."
+   
+4. Abre: http://localhost:8501
+
+OPCION 3: Desde PowerShell
+---------------------------
+1. Abre PowerShell
+2. Ejecuta:
+
+   cd "C:\Users\oscar.perez\OneDrive - OneWorkplace\Documentos\2025\Hilton\Hilton - Deep Divers"
+   python -m streamlit run app.py
+
+3. Abre: http://localhost:8501
+
+========================================
+VERIFICACIONES
+========================================
+
+Si ves errores, verifica:
+
+1. Python esta instalado:
+   python --version
+
+2. Streamlit esta instalado:
+   pip show streamlit
+
+3. Si falta Streamlit, instala:
+   pip install streamlit
+
+4. El archivo CSV esta en el mismo directorio que app.py
+
+========================================
+SOLUCION DE PROBLEMAS
+========================================
+
+Error: "File does not exist: app.py"
+-> Asegurate de estar en el directorio correcto
+-> Usa: cd "ruta completa al directorio"
+
+Error: "streamlit: command not found"
+-> Usa: python -m streamlit run app.py
+
+Error: "Port 8501 already in use"
+-> Cierra otras ventanas de Streamlit
+-> O usa otro puerto: streamlit run app.py --server.port 8502
+
+========================================
+
