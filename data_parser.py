@@ -63,10 +63,41 @@ def parse_csv_file(file_path: str) -> Dict[str, pd.DataFrame]:
             continue
         
         # Check if it's a question line (next non-empty line after section header)
+        # Question should be before the "Response label" header and not contain numeric data patterns
         if current_section and not current_question and not row_str.startswith('Response label'):
             if row_str:
                 # Question can be in one cell or span multiple
-                current_question = ' '.join([cell for cell in row if cell]).strip()
+                # But we need to filter out rows that look like data (contain many numbers/percentages)
+                potential_question = ' '.join([cell for cell in row if cell]).strip()
+                
+                # Check if this looks like a question (not a data row)
+                # Data rows typically have many numbers, percentages, or specific patterns
+                # Questions are usually text-only or have minimal numbers
+                numbers_found = re.findall(r'\d+\.?\d*%?', potential_question)
+                has_many_numbers = len(numbers_found) > 4  # More than 4 numbers suggests it's data
+                has_data_pattern = bool(re.search(r'\d+\.?\d*%\s+\d+\s+\d+\s+\d+', potential_question))
+                
+                # If it doesn't look like data, it's probably the question
+                if not has_many_numbers and not has_data_pattern:
+                    # Clean up the question - extract only the text part
+                    # Split by the first occurrence of a percentage followed by numbers
+                    # This pattern typically marks the start of data: "63.28% 11 17 23"
+                    match = re.search(r'(.+?)(?:\s+\d+\.?\d*%\s+\d+\s+\d+)', potential_question)
+                    if match:
+                        current_question = match.group(1).strip()
+                    else:
+                        # Try to remove trailing numeric patterns
+                        # Remove patterns like "63.28%" at the end if followed by numbers
+                        cleaned = re.sub(r'\s+\d+\.?\d*%\s+.*$', '', potential_question)
+                        # If we removed a lot, it was probably data; otherwise keep it
+                        if len(cleaned) > len(potential_question) * 0.5:
+                            current_question = cleaned.strip()
+                        else:
+                            current_question = potential_question
+                else:
+                    # This looks like data, not a question - skip it
+                    # The question might be in the section name or we'll use a default
+                    pass
             i += 1
             continue
         

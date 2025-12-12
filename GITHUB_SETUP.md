@@ -85,6 +85,20 @@ El `.gitignore` está configurado para excluir:
 **GitHub Pages NO puede hostear aplicaciones Streamlit directamente** porque:
 - GitHub Pages solo sirve sitios estáticos (HTML, CSS, JS)
 - Streamlit necesita un servidor Python ejecutándose
+- Streamlit es una aplicación monolítica (frontend + backend integrados)
+
+### Arquitectura Recomendada: GitHub + Replit
+
+**Opción Recomendada:**
+```
+GitHub (Repositorio) → Replit (Hosting) → Dashboard Público
+```
+
+1. **GitHub**: Almacena el código versionado
+2. **Replit**: Importa desde GitHub y hostea la aplicación completa
+3. **Dashboard**: Disponible en el webview de Replit
+
+Ver `REPLIT_GITHUB_SETUP.md` para instrucciones detalladas.
 
 ### Alternativas para Publicar el Dashboard:
 
